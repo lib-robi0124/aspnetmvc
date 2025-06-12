@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\test-project\\aspnetmvc\\class02\\class02\\",
-  "Documents": [],
+  "WorkspaceRootPath": "D:\\aspnetmvc\\class02\\class02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D3029747-B7E1-4F0F-BDD9-2DF00B5BD69F}|controller\\controller.csproj|d:\\aspnetmvc\\class02\\class02\\controller\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3029747-B7E1-4F0F-BDD9-2DF00B5BD69F}|controller\\controller.csproj|solutionrelative:controller\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3029747-B7E1-4F0F-BDD9-2DF00B5BD69F}|controller\\controller.csproj|d:\\aspnetmvc\\class02\\class02\\controller\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3029747-B7E1-4F0F-BDD9-2DF00B5BD69F}|controller\\controller.csproj|solutionrelative:controller\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +18,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\aspnetmvc\\class02\\class02\\controller\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "controller\\Models\\Course.cs",
+              "ToolTip": "D:\\aspnetmvc\\class02\\class02\\controller\\Models\\Course.cs*",
+              "RelativeToolTip": "controller\\Models\\Course.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:38:52.048Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\aspnetmvc\\class02\\class02\\controller\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "controller\\Controllers\\CourseController.cs",
+              "ToolTip": "D:\\aspnetmvc\\class02\\class02\\controller\\Controllers\\CourseController.cs*",
+              "RelativeToolTip": "controller\\Controllers\\CourseController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T15:51:20.924Z",
+              "EditorCaption": ""
             }
           ]
         }
