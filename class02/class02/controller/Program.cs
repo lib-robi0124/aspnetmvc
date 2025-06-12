@@ -24,4 +24,16 @@ app.MapControllerRoute(
     name: "default",
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
+app.MapControllerRoute(
+    name: "course_by_id",
+    pattern: "course/getCourseById/{id}",
+    defaults: new { controller = "Course", action = "GetCourseById" }
+    );
+
+app.MapControllerRoute(
+    name: "course_by_id_or_name",
+    pattern: "course/getCourseByIdOrName/{id?}/{name?}",
+    defaults: new { controller = "Course", action = "GetCourseByIdOrName" }
+    );
+
 app.Run();

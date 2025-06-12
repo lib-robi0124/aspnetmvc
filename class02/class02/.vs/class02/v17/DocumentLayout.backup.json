@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "D:\\aspnetmvc\\class02\\class02\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D3029747-B7E1-4F0F-BDD9-2DF00B5BD69F}|controller\\controller.csproj|d:\\aspnetmvc\\class02\\class02\\controller\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3029747-B7E1-4F0F-BDD9-2DF00B5BD69F}|controller\\controller.csproj|solutionrelative:controller\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D3029747-B7E1-4F0F-BDD9-2DF00B5BD69F}|controller\\controller.csproj|d:\\aspnetmvc\\class02\\class02\\controller\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3029747-B7E1-4F0F-BDD9-2DF00B5BD69F}|controller\\controller.csproj|solutionrelative:controller\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3029747-B7E1-4F0F-BDD9-2DF00B5BD69F}|controller\\controller.csproj|d:\\aspnetmvc\\class02\\class02\\controller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3029747-B7E1-4F0F-BDD9-2DF00B5BD69F}|controller\\controller.csproj|solutionrelative:controller\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3029747-B7E1-4F0F-BDD9-2DF00B5BD69F}|controller\\controller.csproj|d:\\aspnetmvc\\class02\\class02\\controller\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3029747-B7E1-4F0F-BDD9-2DF00B5BD69F}|controller\\controller.csproj|solutionrelative:controller\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D3029747-B7E1-4F0F-BDD9-2DF00B5BD69F}|controller\\controller.csproj|d:\\aspnetmvc\\class02\\class02\\controller\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,12 +38,51 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\aspnetmvc\\class02\\class02\\controller\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "controller\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\aspnetmvc\\class02\\class02\\controller\\Controllers\\StudentController.cs*",
+              "RelativeToolTip": "controller\\Controllers\\StudentController.cs*",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADUAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T17:32:54.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\aspnetmvc\\class02\\class02\\controller\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "controller\\Models\\Student.cs",
+              "ToolTip": "D:\\aspnetmvc\\class02\\class02\\controller\\Models\\Student.cs",
+              "RelativeToolTip": "controller\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T17:32:07.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\aspnetmvc\\class02\\class02\\controller\\Program.cs",
+              "RelativeDocumentMoniker": "controller\\Program.cs",
+              "ToolTip": "D:\\aspnetmvc\\class02\\class02\\controller\\Program.cs",
+              "RelativeToolTip": "controller\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACMAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-12T16:56:32.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "Course.cs",
               "DocumentMoniker": "D:\\aspnetmvc\\class02\\class02\\controller\\Models\\Course.cs",
               "RelativeDocumentMoniker": "controller\\Models\\Course.cs",
-              "ToolTip": "D:\\aspnetmvc\\class02\\class02\\controller\\Models\\Course.cs*",
-              "RelativeToolTip": "controller\\Models\\Course.cs*",
+              "ToolTip": "D:\\aspnetmvc\\class02\\class02\\controller\\Models\\Course.cs",
+              "RelativeToolTip": "controller\\Models\\Course.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T16:38:52.048Z",
@@ -39,13 +90,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CourseController.cs",
               "DocumentMoniker": "D:\\aspnetmvc\\class02\\class02\\controller\\Controllers\\CourseController.cs",
               "RelativeDocumentMoniker": "controller\\Controllers\\CourseController.cs",
-              "ToolTip": "D:\\aspnetmvc\\class02\\class02\\controller\\Controllers\\CourseController.cs*",
-              "RelativeToolTip": "controller\\Controllers\\CourseController.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAALAAAAAAAAAA==",
+              "ToolTip": "D:\\aspnetmvc\\class02\\class02\\controller\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "controller\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAlwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-12T15:51:20.924Z",
               "EditorCaption": ""
