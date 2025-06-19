@@ -1,0 +1,20 @@
+﻿@using Class04.Models.ViewModels
+@model CreateStudentVM
+
+<h2> Create Student</h2>
+
+<div class="row">
+	<div class="col-md-4">
+		<form method="post" action="createStudent">
+			<div>
+				<label for="FirstName">First Name</label>
+				<input type="text" id="FirstName" name="FirstName" />
+				<label for="LastName">Last Name</label>
+				<input type="text" id="LastName" name="LastName" />
+				<label for="DateOfBirth">Date Of Birth</label>
+				<input type="text" id="DateOfBirth" name="DateOfBirth" />
+			</div>
+			<button type="submit">Create</button>
+		</form>
+	</div>
+</div>
