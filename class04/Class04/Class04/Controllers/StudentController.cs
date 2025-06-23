@@ -30,6 +30,10 @@ namespace Class04.Controllers
         {
             StudentWithCourseDto student = _studentService.GetStudentById(id);
 
+            if (student == null)
+            {
+                return RedirectToAction($"Student with ID {id} not found.", "Home");
+            }
             return View(student);
         }
         [HttpGet("createStudent")]

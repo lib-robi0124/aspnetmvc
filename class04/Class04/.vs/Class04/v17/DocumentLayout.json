@@ -1,30 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\aspnetmvc\\class04\\Class04\\",
+  "WorkspaceRootPath": "D:\\qinshift\\aspnetmvc\\class04\\Class04\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{948402CA-6D6E-4CBB-8F6D-D60EED420652}|Class04\\Class04.csproj|d:\\aspnetmvc\\class04\\class04\\class04\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{948402CA-6D6E-4CBB-8F6D-D60EED420652}|Class04\\Class04.csproj|solutionrelative:class04\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{948402CA-6D6E-4CBB-8F6D-D60EED420652}|Class04\\Class04.csproj|d:\\qinshift\\aspnetmvc\\class04\\class04\\class04\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948402CA-6D6E-4CBB-8F6D-D60EED420652}|Class04\\Class04.csproj|solutionrelative:class04\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{948402CA-6D6E-4CBB-8F6D-D60EED420652}|Class04\\Class04.csproj|d:\\aspnetmvc\\class04\\class04\\class04\\views\\student\\createstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{948402CA-6D6E-4CBB-8F6D-D60EED420652}|Class04\\Class04.csproj|solutionrelative:class04\\views\\student\\createstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{948402CA-6D6E-4CBB-8F6D-D60EED420652}|Class04\\Class04.csproj|d:\\qinshift\\aspnetmvc\\class04\\class04\\class04\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{948402CA-6D6E-4CBB-8F6D-D60EED420652}|Class04\\Class04.csproj|solutionrelative:class04\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{948402CA-6D6E-4CBB-8F6D-D60EED420652}|Class04\\Class04.csproj|d:\\aspnetmvc\\class04\\class04\\class04\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{948402CA-6D6E-4CBB-8F6D-D60EED420652}|Class04\\Class04.csproj|d:\\qinshift\\aspnetmvc\\class04\\class04\\class04\\views\\courses\\_partialcourseview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{948402CA-6D6E-4CBB-8F6D-D60EED420652}|Class04\\Class04.csproj|solutionrelative:class04\\views\\courses\\_partialcourseview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948402CA-6D6E-4CBB-8F6D-D60EED420652}|Class04\\Class04.csproj|d:\\qinshift\\aspnetmvc\\class04\\class04\\class04\\views\\student\\_partialstudentview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{948402CA-6D6E-4CBB-8F6D-D60EED420652}|Class04\\Class04.csproj|solutionrelative:class04\\views\\student\\_partialstudentview.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948402CA-6D6E-4CBB-8F6D-D60EED420652}|Class04\\Class04.csproj|d:\\qinshift\\aspnetmvc\\class04\\class04\\class04\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{948402CA-6D6E-4CBB-8F6D-D60EED420652}|Class04\\Class04.csproj|solutionrelative:class04\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{948402CA-6D6E-4CBB-8F6D-D60EED420652}|Class04\\Class04.csproj|d:\\aspnetmvc\\class04\\class04\\class04\\models\\viewmodels\\createstudentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{948402CA-6D6E-4CBB-8F6D-D60EED420652}|Class04\\Class04.csproj|solutionrelative:class04\\models\\viewmodels\\createstudentvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{948402CA-6D6E-4CBB-8F6D-D60EED420652}|Class04\\Class04.csproj|d:\\qinshift\\aspnetmvc\\class04\\class04\\class04\\models\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{948402CA-6D6E-4CBB-8F6D-D60EED420652}|Class04\\Class04.csproj|solutionrelative:class04\\models\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{948402CA-6D6E-4CBB-8F6D-D60EED420652}|Class04\\Class04.csproj|d:\\aspnetmvc\\class04\\class04\\class04\\views\\student\\getstudentbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{948402CA-6D6E-4CBB-8F6D-D60EED420652}|Class04\\Class04.csproj|solutionrelative:class04\\views\\student\\getstudentbyid.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{948402CA-6D6E-4CBB-8F6D-D60EED420652}|Class04\\Class04.csproj|d:\\aspnetmvc\\class04\\class04\\class04\\views\\student\\getallstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{948402CA-6D6E-4CBB-8F6D-D60EED420652}|Class04\\Class04.csproj|d:\\qinshift\\aspnetmvc\\class04\\class04\\class04\\views\\student\\getallstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{948402CA-6D6E-4CBB-8F6D-D60EED420652}|Class04\\Class04.csproj|solutionrelative:class04\\views\\student\\getallstudents.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{948402CA-6D6E-4CBB-8F6D-D60EED420652}|Class04\\Class04.csproj|d:\\qinshift\\aspnetmvc\\class04\\class04\\class04\\views\\student\\createstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{948402CA-6D6E-4CBB-8F6D-D60EED420652}|Class04\\Class04.csproj|solutionrelative:class04\\views\\student\\createstudent.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +42,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -42,81 +50,100 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CreateStudent.cshtml",
-              "DocumentMoniker": "D:\\aspnetmvc\\class04\\Class04\\Class04\\Views\\Student\\CreateStudent.cshtml",
-              "RelativeDocumentMoniker": "Class04\\Views\\Student\\CreateStudent.cshtml",
-              "ToolTip": "D:\\aspnetmvc\\class04\\Class04\\Class04\\Views\\Student\\CreateStudent.cshtml",
-              "RelativeToolTip": "Class04\\Views\\Student\\CreateStudent.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "_PartialCourseView.cshtml",
+              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\class04\\Class04\\Class04\\Views\\Courses\\_PartialCourseView.cshtml",
+              "RelativeDocumentMoniker": "Class04\\Views\\Courses\\_PartialCourseView.cshtml",
+              "ToolTip": "D:\\qinshift\\aspnetmvc\\class04\\Class04\\Class04\\Views\\Courses\\_PartialCourseView.cshtml",
+              "RelativeToolTip": "Class04\\Views\\Courses\\_PartialCourseView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-19T18:19:42.102Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T11:28:46.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\class04\\Class04\\Class04\\Views\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "Class04\\Views\\Courses\\Index.cshtml",
+              "ToolTip": "D:\\qinshift\\aspnetmvc\\class04\\Class04\\Class04\\Views\\Courses\\Index.cshtml",
+              "RelativeToolTip": "Class04\\Views\\Courses\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-20T11:24:52.694Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "StudentController.cs",
-              "DocumentMoniker": "D:\\aspnetmvc\\class04\\Class04\\Class04\\Controllers\\StudentController.cs",
-              "RelativeDocumentMoniker": "Class04\\Controllers\\StudentController.cs",
-              "ToolTip": "D:\\aspnetmvc\\class04\\Class04\\Class04\\Controllers\\StudentController.cs",
-              "RelativeToolTip": "Class04\\Controllers\\StudentController.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACcAAAAhAAAAAAAAAA==",
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\class04\\Class04\\Class04\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Class04\\Controllers\\CourseController.cs",
+              "ToolTip": "D:\\qinshift\\aspnetmvc\\class04\\Class04\\Class04\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Class04\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T18:12:53.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "StudentService.cs",
-              "DocumentMoniker": "D:\\aspnetmvc\\class04\\Class04\\Class04\\Services\\StudentService.cs",
-              "RelativeDocumentMoniker": "Class04\\Services\\StudentService.cs",
-              "ToolTip": "D:\\aspnetmvc\\class04\\Class04\\Class04\\Services\\StudentService.cs",
-              "RelativeToolTip": "Class04\\Services\\StudentService.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T18:08:47.982Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateStudentVM.cs",
-              "DocumentMoniker": "D:\\aspnetmvc\\class04\\Class04\\Class04\\Models\\ViewModels\\CreateStudentVM.cs",
-              "RelativeDocumentMoniker": "Class04\\Models\\ViewModels\\CreateStudentVM.cs",
-              "ToolTip": "D:\\aspnetmvc\\class04\\Class04\\Class04\\Models\\ViewModels\\CreateStudentVM.cs",
-              "RelativeToolTip": "Class04\\Models\\ViewModels\\CreateStudentVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-19T18:06:13.416Z",
+              "WhenOpened": "2025-06-20T10:48:28.431Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "GetStudentById.cshtml",
-              "DocumentMoniker": "D:\\aspnetmvc\\class04\\Class04\\Class04\\Views\\Student\\GetStudentById.cshtml",
-              "RelativeDocumentMoniker": "Class04\\Views\\Student\\GetStudentById.cshtml",
-              "ToolTip": "D:\\aspnetmvc\\class04\\Class04\\Class04\\Views\\Student\\GetStudentById.cshtml",
-              "RelativeToolTip": "Class04\\Views\\Student\\GetStudentById.cshtml",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAwA8AAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-19T17:02:52.575Z",
-              "EditorCaption": ""
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\class04\\Class04\\Class04\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "Class04\\Services\\StudentService.cs",
+              "ToolTip": "D:\\qinshift\\aspnetmvc\\class04\\Class04\\Class04\\Services\\StudentService.cs",
+              "RelativeToolTip": "Class04\\Services\\StudentService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAcwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T10:16:57.291Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "GetAllStudents.cshtml",
-              "DocumentMoniker": "D:\\aspnetmvc\\class04\\Class04\\Class04\\Views\\Student\\GetAllStudents.cshtml",
-              "RelativeDocumentMoniker": "Class04\\Views\\Student\\GetAllStudents.cshtml",
-              "ToolTip": "D:\\aspnetmvc\\class04\\Class04\\Class04\\Views\\Student\\GetAllStudents.cshtml",
-              "RelativeToolTip": "Class04\\Views\\Student\\GetAllStudents.cshtml",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAwA8AAAASAAAAAAAAAA==",
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\class04\\Class04\\Class04\\Models\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "Class04\\Models\\Entities\\Course.cs",
+              "ToolTip": "D:\\qinshift\\aspnetmvc\\class04\\Class04\\Class04\\Models\\Entities\\Course.cs",
+              "RelativeToolTip": "Class04\\Models\\Entities\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-20T10:15:53.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_PartialStudentView.cshtml",
+              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\class04\\Class04\\Class04\\Views\\Student\\_PartialStudentView.cshtml",
+              "RelativeDocumentMoniker": "Class04\\Views\\Student\\_PartialStudentView.cshtml",
+              "ToolTip": "D:\\qinshift\\aspnetmvc\\class04\\Class04\\Class04\\Views\\Student\\_PartialStudentView.cshtml",
+              "RelativeToolTip": "Class04\\Views\\Student\\_PartialStudentView.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-06-19T17:00:08.832Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-20T09:38:52.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateStudent.cshtml",
+              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\class04\\Class04\\Class04\\Views\\Student\\CreateStudent.cshtml",
+              "RelativeDocumentMoniker": "Class04\\Views\\Student\\CreateStudent.cshtml",
+              "ToolTip": "D:\\qinshift\\aspnetmvc\\class04\\Class04\\Class04\\Views\\Student\\CreateStudent.cshtml",
+              "RelativeToolTip": "Class04\\Views\\Student\\CreateStudent.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T18:19:42.102Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllStudents.cshtml",
+              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\class04\\Class04\\Class04\\Views\\Student\\GetAllStudents.cshtml",
+              "RelativeDocumentMoniker": "Class04\\Views\\Student\\GetAllStudents.cshtml",
+              "ToolTip": "D:\\qinshift\\aspnetmvc\\class04\\Class04\\Class04\\Views\\Student\\GetAllStudents.cshtml",
+              "RelativeToolTip": "Class04\\Views\\Student\\GetAllStudents.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-19T17:00:08.832Z"
             }
           ]
         }

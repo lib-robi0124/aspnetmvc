@@ -46,7 +46,7 @@ namespace Class04.DataBase
                     FirstName = "Jane",
                     LastName = "Doe",
                     DateOfBirth = DateTime.Now.AddYears(-17),
-                    ActiveCourse = Courses[3]
+                    ActiveCourse = Courses[4]
                 },
             };
         }

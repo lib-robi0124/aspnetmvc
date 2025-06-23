@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\aspnetmvc\\class04\\Class04\\Class04\\Class04.csproj": {}
+    "D:\\qinshift\\aspnetmvc\\class04\\Class04\\Class04\\Class04.csproj": {}
   },
   "projects": {
-    "D:\\aspnetmvc\\class04\\Class04\\Class04\\Class04.csproj": {
+    "D:\\qinshift\\aspnetmvc\\class04\\Class04\\Class04\\Class04.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\aspnetmvc\\class04\\Class04\\Class04\\Class04.csproj",
+        "projectUniqueName": "D:\\qinshift\\aspnetmvc\\class04\\Class04\\Class04\\Class04.csproj",
         "projectName": "Class04",
-        "projectPath": "D:\\aspnetmvc\\class04\\Class04\\Class04\\Class04.csproj",
-        "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
-        "outputPath": "D:\\aspnetmvc\\class04\\Class04\\Class04\\obj\\",
+        "projectPath": "D:\\qinshift\\aspnetmvc\\class04\\Class04\\Class04\\Class04.csproj",
+        "packagesPath": "C:\\Users\\Robertr2\\.nuget\\packages\\",
+        "outputPath": "D:\\qinshift\\aspnetmvc\\class04\\Class04\\Class04\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Robertr2\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

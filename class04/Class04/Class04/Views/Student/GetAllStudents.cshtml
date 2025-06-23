@@ -1,9 +1,14 @@
 ﻿@using Class04.Models.DtoModels;
 @model IEnumerable<StudentWithCourseDto>
 
-<h2>All Students</h2>
+	@{
+    string studentTitleHeader = "All Students";
+	}
 
-<table class="table">
+<h2>@studentTitleHeader</h2>
+@Html.Partial("_PartialStudentView", Model)
+
+@* <table class="table">
 	<thead>
 		<tr>
 			<th>
@@ -33,4 +38,4 @@
 			</tr>
 		}
 	</tbody>
-</table>
+</table> *@
