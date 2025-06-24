@@ -1,0 +1,12 @@
+D:\aspnetmvc\class06\Class06\TodoApp.Domain\bin\Debug\net8.0\TodoApp.Domain.deps.json
+D:\aspnetmvc\class06\Class06\TodoApp.Domain\bin\Debug\net8.0\TodoApp.Domain.dll
+D:\aspnetmvc\class06\Class06\TodoApp.Domain\bin\Debug\net8.0\TodoApp.Domain.pdb
+D:\aspnetmvc\class06\Class06\TodoApp.Domain\obj\Debug\net8.0\TodoApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\aspnetmvc\class06\Class06\TodoApp.Domain\obj\Debug\net8.0\TodoApp.Domain.AssemblyInfoInputs.cache
+D:\aspnetmvc\class06\Class06\TodoApp.Domain\obj\Debug\net8.0\TodoApp.Domain.AssemblyInfo.cs
+D:\aspnetmvc\class06\Class06\TodoApp.Domain\obj\Debug\net8.0\TodoApp.Domain.csproj.CoreCompileInputs.cache
+D:\aspnetmvc\class06\Class06\TodoApp.Domain\obj\Debug\net8.0\TodoApp.Domain.sourcelink.json
+D:\aspnetmvc\class06\Class06\TodoApp.Domain\obj\Debug\net8.0\TodoApp.Domain.dll
+D:\aspnetmvc\class06\Class06\TodoApp.Domain\obj\Debug\net8.0\refint\TodoApp.Domain.dll
+D:\aspnetmvc\class06\Class06\TodoApp.Domain\obj\Debug\net8.0\TodoApp.Domain.pdb
+D:\aspnetmvc\class06\Class06\TodoApp.Domain\obj\Debug\net8.0\ref\TodoApp.Domain.dll
