@@ -1,0 +1,20 @@
+﻿@model StudentVM
+
+<div class="container">
+    <h2>Student Details</h2>
+    <div class="row">
+        <div class="col-md-6">
+            <dl class="dl-horizontal">
+                <dt>Full Name:</dt>
+                <dd>@Model.FullName</dd>
+                <dt>Age:</dt>
+                <dd>@Model.Age</dd>
+                <dt>Active Course Name</dt>
+                <dd>@Model.ActiveCourseName</dd>
+            </dl>
+        </div>
+        
+    </div>
+    <a href="@Url.Action("Index", "Student")" class="btn btn-primary">Back to List</a>
+    <a asp-action="GetAllStudents" class="btn btn-primary">Go Back</a>
+</div>

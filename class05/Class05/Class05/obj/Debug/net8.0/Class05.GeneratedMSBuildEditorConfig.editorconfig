@@ -40,8 +40,12 @@ build_metadata.AdditionalFiles.CssScope =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/qinshift/aspnetmvc/class05/Class05/Class05/Views/Student/StudentVm.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxTdHVkZW50Vm0uY3NodG1s
+[D:/qinshift/aspnetmvc/class05/Class05/Class05/Views/Student/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/qinshift/aspnetmvc/class05/Class05/Class05/Views/Student/GetAllStudents.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3R1ZGVudFxHZXRBbGxTdHVkZW50cy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/qinshift/aspnetmvc/class05/Class05/Class05/Views/_ViewImports.cshtml]
