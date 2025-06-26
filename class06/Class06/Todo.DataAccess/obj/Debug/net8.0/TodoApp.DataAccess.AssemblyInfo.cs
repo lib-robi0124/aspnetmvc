@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TodoApp.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+55c5a4ba2fa3d07e119d33020f0f603ee3553bbe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+93afe691517d4ac1f02de633dd32833c6baf5313")]
 [assembly: System.Reflection.AssemblyProductAttribute("TodoApp.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TodoApp.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

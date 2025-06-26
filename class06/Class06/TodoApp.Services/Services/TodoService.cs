@@ -12,21 +12,24 @@ namespace TodoApp.Services.Services
         {
             _todoRepository = todoRepository;
         }
-
         public IEnumerable<TodoDto> GetAllTodos()
         {
-            var todoDto = new List<TodoDto>();
+            var todosDto = new List<TodoDto>();
             var todos = _todoRepository.GetAll();
-            if (todos !== null && todos.ToList().Count > 0)
+            if (todos != null && todos.ToList().Count > 0)
             {
-                //map from todo to todoDto
-                foreach (var to in todos)
+                // Map from Todo to TodoDto
+                foreach (var todo in todos)
                 {
-
+                    // TODO: Finish the mapping
+                    //todosDto.Add(new TodoDto
+                    //{
+                    //    todo.Id = 
+                    //})
                 }
-                return todoDto;
+                return todosDto;
             }
-            return todoDto;
+            return todosDto;
         }
     }
 }
