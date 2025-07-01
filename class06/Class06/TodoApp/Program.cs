@@ -1,12 +1,15 @@
 using TodoApp.DataAccess.Repositories;
 using TodoApp.Domain;
+using TodoApp.Services.Services;
+using TodoApp.Services.Services.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-builder.Services.AddScoped(IRepository<Todo>, TodoRepository>());
+builder.Services.AddScoped<IRepository<Todo>, TodoRepository>();
+builder.Services.AddScoped<ITodoService, TodoService>();
 
 var app = builder.Build();
 

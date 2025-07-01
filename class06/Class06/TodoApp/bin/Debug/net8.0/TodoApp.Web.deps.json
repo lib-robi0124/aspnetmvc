@@ -1,0 +1,71 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "TodoApp.Web/1.0.0": {
+        "dependencies": {
+          "TodoApp.Services": "1.0.0"
+        },
+        "runtime": {
+          "TodoApp.Web.dll": {}
+        }
+      },
+      "TodoApp.DataAccess/1.0.0": {
+        "dependencies": {
+          "TodoApp.Domain": "1.0.0"
+        },
+        "runtime": {
+          "TodoApp.DataAccess.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "TodoApp.Domain/1.0.0": {
+        "runtime": {
+          "TodoApp.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "TodoApp.Services/1.0.0": {
+        "dependencies": {
+          "TodoApp.DataAccess": "1.0.0"
+        },
+        "runtime": {
+          "TodoApp.Services.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TodoApp.Web/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TodoApp.DataAccess/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TodoApp.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "TodoApp.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
