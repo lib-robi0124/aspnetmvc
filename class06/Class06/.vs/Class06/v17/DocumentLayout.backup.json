@@ -1,38 +1,50 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\aspnetmvc\\class06\\Class06\\",
+  "WorkspaceRootPath": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4840872A-CC46-44E7-B3D4-F66E89FE19FE}|TodoApp.Services\\TodoApp.Services.csproj|d:\\aspnetmvc\\class06\\class06\\todoapp.services\\services\\interfaces\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4840872A-CC46-44E7-B3D4-F66E89FE19FE}|TodoApp.Services\\TodoApp.Services.csproj|solutionrelative:todoapp.services\\services\\interfaces\\itodoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\qinshift\\aspnetmvc\\class06\\Class06\\TodoApp.Services\\Services\\Interfaces\\ICategoryServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TodoApp.Services\\Services\\Interfaces\\ICategoryServices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44E768BD-85CE-4F0A-A529-7F65A5BFE05A}|TodoApp\\TodoApp.Web.csproj|d:\\aspnetmvc\\class06\\class06\\todoapp\\models\\createtodovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44E768BD-85CE-4F0A-A529-7F65A5BFE05A}|TodoApp\\TodoApp.Web.csproj|solutionrelative:todoapp\\models\\createtodovm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\qinshift\\aspnetmvc\\class06\\Class06\\Todo.DataAccess\\Repositories\\CategoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Todo.DataAccess\\Repositories\\CategoryRepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44E768BD-85CE-4F0A-A529-7F65A5BFE05A}|TodoApp\\TodoApp.Web.csproj|d:\\aspnetmvc\\class06\\class06\\todoapp\\models\\categoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44E768BD-85CE-4F0A-A529-7F65A5BFE05A}|TodoApp\\TodoApp.Web.csproj|solutionrelative:todoapp\\models\\categoryvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\qinshift\\aspnetmvc\\class06\\Class06\\TodoApp\\Views\\Todo\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TodoApp\\Views\\Todo\\Create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44E768BD-85CE-4F0A-A529-7F65A5BFE05A}|TodoApp\\TodoApp.Web.csproj|d:\\aspnetmvc\\class06\\class06\\todoapp\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{44E768BD-85CE-4F0A-A529-7F65A5BFE05A}|TodoApp\\TodoApp.Web.csproj|solutionrelative:todoapp\\views\\todo\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\qinshift\\aspnetmvc\\class06\\Class06\\TodoApp\\Models\\CategoryVM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TodoApp\\Models\\CategoryVM.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1504E602-2D5A-4170-9373-7AA03CB8B91D}|Todo.DataAccess\\TodoApp.DataAccess.csproj|d:\\aspnetmvc\\class06\\class06\\todo.dataaccess\\data\\staticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1504E602-2D5A-4170-9373-7AA03CB8B91D}|Todo.DataAccess\\TodoApp.DataAccess.csproj|solutionrelative:todo.dataaccess\\data\\staticdb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\qinshift\\aspnetmvc\\class06\\Class06\\TodoApp\\Models\\CreateTodoVm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TodoApp\\Models\\CreateTodoVm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4840872A-CC46-44E7-B3D4-F66E89FE19FE}|TodoApp.Services\\TodoApp.Services.csproj|d:\\aspnetmvc\\class06\\class06\\todoapp.services\\dtos\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4840872A-CC46-44E7-B3D4-F66E89FE19FE}|TodoApp.Services\\TodoApp.Services.csproj|solutionrelative:todoapp.services\\dtos\\tododto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\qinshift\\aspnetmvc\\class06\\Class06\\TodoApp.Services\\Services\\Interfaces\\ITodoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TodoApp.Services\\Services\\Interfaces\\ITodoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4840872A-CC46-44E7-B3D4-F66E89FE19FE}|TodoApp.Services\\TodoApp.Services.csproj|d:\\aspnetmvc\\class06\\class06\\todoapp.services\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4840872A-CC46-44E7-B3D4-F66E89FE19FE}|TodoApp.Services\\TodoApp.Services.csproj|solutionrelative:todoapp.services\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\qinshift\\aspnetmvc\\class06\\Class06\\Todo.DataAccess\\Data\\StaticDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Todo.DataAccess\\Data\\StaticDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{44E768BD-85CE-4F0A-A529-7F65A5BFE05A}|TodoApp\\TodoApp.Web.csproj|d:\\aspnetmvc\\class06\\class06\\todoapp\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{44E768BD-85CE-4F0A-A529-7F65A5BFE05A}|TodoApp\\TodoApp.Web.csproj|solutionrelative:todoapp\\controllers\\todocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\qinshift\\aspnetmvc\\class06\\Class06\\TodoApp\\Views\\Todo\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TodoApp\\Views\\Todo\\Index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\qinshift\\aspnetmvc\\class06\\Class06\\TodoApp.Services\\Dtos\\TodoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TodoApp.Services\\Dtos\\TodoDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\qinshift\\aspnetmvc\\class06\\Class06\\TodoApp.Services\\Services\\TodoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TodoApp.Services\\Services\\TodoService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\qinshift\\aspnetmvc\\class06\\Class06\\TodoApp\\Controllers\\TodoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:TodoApp\\Controllers\\TodoController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,107 +62,136 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "CategoryVM.cs",
-              "DocumentMoniker": "D:\\aspnetmvc\\class06\\Class06\\TodoApp\\Models\\CategoryVM.cs",
-              "RelativeDocumentMoniker": "TodoApp\\Models\\CategoryVM.cs",
-              "ToolTip": "D:\\aspnetmvc\\class06\\Class06\\TodoApp\\Models\\CategoryVM.cs",
-              "RelativeToolTip": "TodoApp\\Models\\CategoryVM.cs",
+              "DocumentIndex": 0,
+              "Title": "ICategoryServices.cs",
+              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\TodoApp.Services\\Services\\Interfaces\\ICategoryServices.cs",
+              "RelativeDocumentMoniker": "TodoApp.Services\\Services\\Interfaces\\ICategoryServices.cs",
+              "ToolTip": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\TodoApp.Services\\Services\\Interfaces\\ICategoryServices.cs",
+              "RelativeToolTip": "TodoApp.Services\\Services\\Interfaces\\ICategoryServices.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T17:43:17.771Z",
+              "WhenOpened": "2025-07-01T18:37:17.472Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CreateTodoVm.cs",
-              "DocumentMoniker": "D:\\aspnetmvc\\class06\\Class06\\TodoApp\\Models\\CreateTodoVm.cs",
-              "RelativeDocumentMoniker": "TodoApp\\Models\\CreateTodoVm.cs",
-              "ToolTip": "D:\\aspnetmvc\\class06\\Class06\\TodoApp\\Models\\CreateTodoVm.cs",
-              "RelativeToolTip": "TodoApp\\Models\\CreateTodoVm.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\Todo.DataAccess\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "Todo.DataAccess\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\Todo.DataAccess\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "Todo.DataAccess\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T17:41:46.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T18:34:46.81Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ITodoService.cs",
-              "DocumentMoniker": "D:\\aspnetmvc\\class06\\Class06\\TodoApp.Services\\Services\\Interfaces\\ITodoService.cs",
-              "RelativeDocumentMoniker": "TodoApp.Services\\Services\\Interfaces\\ITodoService.cs",
-              "ToolTip": "D:\\aspnetmvc\\class06\\Class06\\TodoApp.Services\\Services\\Interfaces\\ITodoService.cs",
-              "RelativeToolTip": "TodoApp.Services\\Services\\Interfaces\\ITodoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T17:39:22.85Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "StaticDb.cs",
-              "DocumentMoniker": "D:\\aspnetmvc\\class06\\Class06\\Todo.DataAccess\\Data\\StaticDb.cs",
-              "RelativeDocumentMoniker": "Todo.DataAccess\\Data\\StaticDb.cs",
-              "ToolTip": "D:\\aspnetmvc\\class06\\Class06\\Todo.DataAccess\\Data\\StaticDb.cs",
-              "RelativeToolTip": "Todo.DataAccess\\Data\\StaticDb.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAAADgAAAAnAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T17:34:59.132Z",
-              "EditorCaption": ""
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\TodoApp\\Views\\Todo\\Create.cshtml",
+              "RelativeDocumentMoniker": "TodoApp\\Views\\Todo\\Create.cshtml",
+              "ToolTip": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\TodoApp\\Views\\Todo\\Create.cshtml",
+              "RelativeToolTip": "TodoApp\\Views\\Todo\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T18:18:34.292Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\aspnetmvc\\class06\\Class06\\TodoApp\\Views\\Todo\\Index.cshtml",
-              "RelativeDocumentMoniker": "TodoApp\\Views\\Todo\\Index.cshtml",
-              "ToolTip": "D:\\aspnetmvc\\class06\\Class06\\TodoApp\\Views\\Todo\\Index.cshtml",
-              "RelativeToolTip": "TodoApp\\Views\\Todo\\Index.cshtml",
-              "ViewState": "AgIAABMAAAAAAAAAAAAIwB8AAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-01T17:33:28.796Z",
-              "EditorCaption": ""
+              "Title": "CategoryVM.cs",
+              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\TodoApp\\Models\\CategoryVM.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Models\\CategoryVM.cs",
+              "ToolTip": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\TodoApp\\Models\\CategoryVM.cs",
+              "RelativeToolTip": "TodoApp\\Models\\CategoryVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T17:43:17.771Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateTodoVm.cs",
+              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\TodoApp\\Models\\CreateTodoVm.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Models\\CreateTodoVm.cs",
+              "ToolTip": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\TodoApp\\Models\\CreateTodoVm.cs",
+              "RelativeToolTip": "TodoApp\\Models\\CreateTodoVm.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T17:41:46.091Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "TodoDto.cs",
-              "DocumentMoniker": "D:\\aspnetmvc\\class06\\Class06\\TodoApp.Services\\Dtos\\TodoDto.cs",
-              "RelativeDocumentMoniker": "TodoApp.Services\\Dtos\\TodoDto.cs",
-              "ToolTip": "D:\\aspnetmvc\\class06\\Class06\\TodoApp.Services\\Dtos\\TodoDto.cs",
-              "RelativeToolTip": "TodoApp.Services\\Dtos\\TodoDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "ITodoService.cs",
+              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\TodoApp.Services\\Services\\Interfaces\\ITodoService.cs",
+              "RelativeDocumentMoniker": "TodoApp.Services\\Services\\Interfaces\\ITodoService.cs",
+              "ToolTip": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\TodoApp.Services\\Services\\Interfaces\\ITodoService.cs",
+              "RelativeToolTip": "TodoApp.Services\\Services\\Interfaces\\ITodoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T17:33:12.159Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T17:39:22.85Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "TodoService.cs",
-              "DocumentMoniker": "D:\\aspnetmvc\\class06\\Class06\\TodoApp.Services\\Services\\TodoService.cs",
-              "RelativeDocumentMoniker": "TodoApp.Services\\Services\\TodoService.cs",
-              "ToolTip": "D:\\aspnetmvc\\class06\\Class06\\TodoApp.Services\\Services\\TodoService.cs",
-              "RelativeToolTip": "TodoApp.Services\\Services\\TodoService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Title": "StaticDb.cs",
+              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\Todo.DataAccess\\Data\\StaticDb.cs",
+              "RelativeDocumentMoniker": "Todo.DataAccess\\Data\\StaticDb.cs",
+              "ToolTip": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\Todo.DataAccess\\Data\\StaticDb.cs",
+              "RelativeToolTip": "Todo.DataAccess\\Data\\StaticDb.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAADgAAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T17:33:05.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T17:34:59.132Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "TodoController.cs",
-              "DocumentMoniker": "D:\\aspnetmvc\\class06\\Class06\\TodoApp\\Controllers\\TodoController.cs",
-              "RelativeDocumentMoniker": "TodoApp\\Controllers\\TodoController.cs",
-              "ToolTip": "D:\\aspnetmvc\\class06\\Class06\\TodoApp\\Controllers\\TodoController.cs",
-              "RelativeToolTip": "TodoApp\\Controllers\\TodoController.cs",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\TodoApp\\Views\\Todo\\Index.cshtml",
+              "RelativeDocumentMoniker": "TodoApp\\Views\\Todo\\Index.cshtml",
+              "ToolTip": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\TodoApp\\Views\\Todo\\Index.cshtml",
+              "RelativeToolTip": "TodoApp\\Views\\Todo\\Index.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAIwB8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-01T17:33:28.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "TodoDto.cs",
+              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\TodoApp.Services\\Dtos\\TodoDto.cs",
+              "RelativeDocumentMoniker": "TodoApp.Services\\Dtos\\TodoDto.cs",
+              "ToolTip": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\TodoApp.Services\\Dtos\\TodoDto.cs",
+              "RelativeToolTip": "TodoApp.Services\\Dtos\\TodoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-01T17:32:58.158Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-01T17:33:12.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TodoService.cs",
+              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\TodoApp.Services\\Services\\TodoService.cs",
+              "RelativeDocumentMoniker": "TodoApp.Services\\Services\\TodoService.cs",
+              "ToolTip": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\TodoApp.Services\\Services\\TodoService.cs",
+              "RelativeToolTip": "TodoApp.Services\\Services\\TodoService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T17:33:05.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TodoController.cs",
+              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\TodoApp\\Controllers\\TodoController.cs",
+              "RelativeDocumentMoniker": "TodoApp\\Controllers\\TodoController.cs",
+              "ToolTip": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\TodoApp\\Controllers\\TodoController.cs",
+              "RelativeToolTip": "TodoApp\\Controllers\\TodoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T17:32:58.158Z"
             }
           ]
         }
