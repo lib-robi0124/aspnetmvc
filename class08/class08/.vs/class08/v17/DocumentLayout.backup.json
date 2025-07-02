@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\qinshift\\aspnetmvc\\class08\\class08\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B0D08-5FA2-403F-9399-4F02106FAFFC}|EF\\EF.csproj|c:\\qinshift\\aspnetmvc\\class08\\class08\\ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B0D08-5FA2-403F-9399-4F02106FAFFC}|EF\\EF.csproj|solutionrelative:ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B0D08-5FA2-403F-9399-4F02106FAFFC}|EF\\EF.csproj|c:\\qinshift\\aspnetmvc\\class08\\class08\\ef\\database\\academydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B0D08-5FA2-403F-9399-4F02106FAFFC}|EF\\EF.csproj|solutionrelative:ef\\database\\academydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B0D08-5FA2-403F-9399-4F02106FAFFC}|EF\\EF.csproj|c:\\qinshift\\aspnetmvc\\class08\\class08\\ef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DF7B0D08-5FA2-403F-9399-4F02106FAFFC}|EF\\EF.csproj|solutionrelative:ef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B0D08-5FA2-403F-9399-4F02106FAFFC}|EF\\EF.csproj|c:\\qinshift\\aspnetmvc\\class08\\class08\\ef\\models\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B0D08-5FA2-403F-9399-4F02106FAFFC}|EF\\EF.csproj|solutionrelative:ef\\models\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF7B0D08-5FA2-403F-9399-4F02106FAFFC}|EF\\EF.csproj|c:\\qinshift\\aspnetmvc\\class08\\class08\\ef\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF7B0D08-5FA2-403F-9399-4F02106FAFFC}|EF\\EF.csproj|solutionrelative:ef\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\qinshift\\aspnetmvc\\class08\\class08\\EF\\Program.cs",
+              "RelativeDocumentMoniker": "EF\\Program.cs",
+              "ToolTip": "C:\\qinshift\\aspnetmvc\\class08\\class08\\EF\\Program.cs",
+              "RelativeToolTip": "EF\\Program.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T17:04:23.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\qinshift\\aspnetmvc\\class08\\class08\\EF\\appsettings.json",
+              "RelativeDocumentMoniker": "EF\\appsettings.json",
+              "ToolTip": "C:\\qinshift\\aspnetmvc\\class08\\class08\\EF\\appsettings.json",
+              "RelativeToolTip": "EF\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-02T16:57:26.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AcademyDbContext.cs",
+              "DocumentMoniker": "C:\\qinshift\\aspnetmvc\\class08\\class08\\EF\\Database\\AcademyDbContext.cs",
+              "RelativeDocumentMoniker": "EF\\Database\\AcademyDbContext.cs",
+              "ToolTip": "C:\\qinshift\\aspnetmvc\\class08\\class08\\EF\\Database\\AcademyDbContext.cs",
+              "RelativeToolTip": "EF\\Database\\AcademyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAgAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:06:04.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\qinshift\\aspnetmvc\\class08\\class08\\EF\\Models\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "EF\\Models\\Entities\\Course.cs",
+              "ToolTip": "C:\\qinshift\\aspnetmvc\\class08\\class08\\EF\\Models\\Entities\\Course.cs",
+              "RelativeToolTip": "EF\\Models\\Entities\\Course.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:54:33.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\qinshift\\aspnetmvc\\class08\\class08\\EF\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "EF\\Models\\Entities\\Student.cs",
+              "ToolTip": "C:\\qinshift\\aspnetmvc\\class08\\class08\\EF\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "EF\\Models\\Entities\\Student.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:54:25.088Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
