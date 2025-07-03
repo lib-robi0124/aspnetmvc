@@ -22,11 +22,10 @@ namespace TodoApp.Services.Services
                 Id = StaticDb.Todos.Count + 1,
                 Description = createTodoVM.Description,
                 DueDate = createTodoVM.DueDate,
-                CategoryId = createTodoVM.Category,
-
-
-            }
-
+                CategoryId = createTodoVM.CategoryId,
+                StatusId = 1
+            };
+            _todoRepository.Create(newTodo);
         }
 
         public IEnumerable<TodoDto> GetAllTodos()

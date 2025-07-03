@@ -9,6 +9,9 @@ var builder = WebApplication.CreateBuilder(args);
 builder.Services.AddControllersWithViews();
 
 builder.Services.AddScoped<IRepository<Todo>, TodoRepository>();
+builder.Services.AddScoped<IRepository<Category>, CategoryRepository>();
+
+builder.Services.AddScoped<ICategoryServices, CategoryServices>();
 builder.Services.AddScoped<ITodoService, TodoService>();
 
 var app = builder.Build();

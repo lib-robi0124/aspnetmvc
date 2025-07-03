@@ -3,8 +3,10 @@
     "",
     "\\class07",
     "\\class07\\ModelBinding",
-    "\\class07\\ModelBinding\\Controllers"
+    "\\class07\\ModelBinding\\Controllers",
+    "\\class07\\ModelBinding\\Views",
+    "\\class07\\ModelBinding\\Views\\Student"
   ],
-  "SelectedNode": "\\class07\\ModelBinding\\Controllers\\StudentController.cs",
+  "SelectedNode": "\\class07\\ModelBinding\\Views\\Student\\Create.cshtml",
   "PreviewInSolutionExplorer": false
 }

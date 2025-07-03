@@ -35,10 +35,20 @@
       },
       "TodoApp.Services/1.0.0": {
         "dependencies": {
-          "TodoApp.DataAccess": "1.0.0"
+          "TodoApp.DataAccess": "1.0.0",
+          "TodoApp.Domain": "1.0.0",
+          "ViewModels": "1.0.0"
         },
         "runtime": {
           "TodoApp.Services.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ViewModels/1.0.0": {
+        "runtime": {
+          "ViewModels.dll": {
             "assemblyVersion": "1.0.0.0",
             "fileVersion": "1.0.0.0"
           }
@@ -63,6 +73,11 @@
       "sha512": ""
     },
     "TodoApp.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ViewModels/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

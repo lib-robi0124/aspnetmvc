@@ -1,18 +1,19 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using TodoApp.Services.Dtos;
-using TodoApp.Services.Services;
 using TodoApp.Services.Services.Interfaces;
 using TodoApp.Web.Models;
 
 namespace TodoApp.Web.Controllers
 {
-    [Route("")]
+    //[Route("")]
     public class TodoController : Controller
     {
         private readonly ITodoService _todoService;
-        public TodoController (ITodoService todoService)
+        private readonly ICategoryServices _categoryServices;
+        public TodoController(ITodoService todoService, ICategoryServices categoryServices)
         {
             _todoService = todoService;
+            _categoryServices = categoryServices;
         }
         public IActionResult Index()
         {
@@ -22,10 +23,21 @@ namespace TodoApp.Web.Controllers
         [HttpGet]
         public IActionResult Create()
         {
-            return View();
+            CreateTodoVm createTodoVM = new CreateTodoVm();
+            createTodoVM.Categories = _categoryServices.GetAllCategories();
+            createTodoVM.DueDate = DateTime.Now;
+            return View(createTodoVM);
         }
         [HttpPost]
-        public IActionResult Create(CreateTodoVm model) {
+        public IActionResult Create(CreateTodoVm model)
+        {
+            if (ModelState.IsValid)
+            {
+                _todoService.AddTodo(model);
+                return RedirectToAction("Index");
+            }
+            return View(model);
 
+        }
     }
 }

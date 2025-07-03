@@ -5,8 +5,6 @@ namespace TodoApp.DataAccess.Repositories
 {
     public class TodoRepository : IRepository<Todo>
     {
-        
-
         public IEnumerable<Todo> GetAll()
         {
             return StaticDb.Todos;

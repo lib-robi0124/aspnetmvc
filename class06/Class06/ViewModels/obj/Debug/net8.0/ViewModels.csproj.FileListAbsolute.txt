@@ -1,0 +1,12 @@
+D:\qinshift\aspnetmvc\class06\Class06\ViewModels\bin\Debug\net8.0\ViewModels.deps.json
+D:\qinshift\aspnetmvc\class06\Class06\ViewModels\bin\Debug\net8.0\ViewModels.dll
+D:\qinshift\aspnetmvc\class06\Class06\ViewModels\bin\Debug\net8.0\ViewModels.pdb
+D:\qinshift\aspnetmvc\class06\Class06\ViewModels\obj\Debug\net8.0\ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+D:\qinshift\aspnetmvc\class06\Class06\ViewModels\obj\Debug\net8.0\ViewModels.AssemblyInfoInputs.cache
+D:\qinshift\aspnetmvc\class06\Class06\ViewModels\obj\Debug\net8.0\ViewModels.AssemblyInfo.cs
+D:\qinshift\aspnetmvc\class06\Class06\ViewModels\obj\Debug\net8.0\ViewModels.csproj.CoreCompileInputs.cache
+D:\qinshift\aspnetmvc\class06\Class06\ViewModels\obj\Debug\net8.0\ViewModels.sourcelink.json
+D:\qinshift\aspnetmvc\class06\Class06\ViewModels\obj\Debug\net8.0\ViewModels.dll
+D:\qinshift\aspnetmvc\class06\Class06\ViewModels\obj\Debug\net8.0\refint\ViewModels.dll
+D:\qinshift\aspnetmvc\class06\Class06\ViewModels\obj\Debug\net8.0\ViewModels.pdb
+D:\qinshift\aspnetmvc\class06\Class06\ViewModels\obj\Debug\net8.0\ref\ViewModels.dll
