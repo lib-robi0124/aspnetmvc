@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\qinshift\\aspnetmvc\\class06\\Class06\\ViewModels\\ViewModels.csproj": {}
+    "D:\\aspnetmvc\\class06\\Class06\\ViewModels\\ViewModels.csproj": {}
   },
   "projects": {
-    "D:\\qinshift\\aspnetmvc\\class06\\Class06\\ViewModels\\ViewModels.csproj": {
+    "D:\\aspnetmvc\\class06\\Class06\\ViewModels\\ViewModels.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\ViewModels\\ViewModels.csproj",
+        "projectUniqueName": "D:\\aspnetmvc\\class06\\Class06\\ViewModels\\ViewModels.csproj",
         "projectName": "ViewModels",
-        "projectPath": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\ViewModels\\ViewModels.csproj",
-        "packagesPath": "C:\\Users\\Robertr2\\.nuget\\packages\\",
-        "outputPath": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\ViewModels\\obj\\",
+        "projectPath": "D:\\aspnetmvc\\class06\\Class06\\ViewModels\\ViewModels.csproj",
+        "packagesPath": "C:\\Users\\rober\\.nuget\\packages\\",
+        "outputPath": "D:\\aspnetmvc\\class06\\Class06\\ViewModels\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Robertr2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\rober\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -49,6 +49,26 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Abstractions": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.17, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.17, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

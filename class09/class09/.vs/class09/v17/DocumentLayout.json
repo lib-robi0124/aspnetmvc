@@ -1,42 +1,42 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\qinshift\\aspnetmvc\\class09\\class09\\",
+  "WorkspaceRootPath": "D:\\aspnetmvc\\class09\\class09\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F89CA8F7-D893-4D1B-8217-D9A9A844BBA3}|class09.EF\\class09.EF.csproj|d:\\qinshift\\aspnetmvc\\class09\\class09\\class09.ef\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F89CA8F7-D893-4D1B-8217-D9A9A844BBA3}|class09.EF\\class09.EF.csproj|solutionrelative:class09.ef\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F89CA8F7-D893-4D1B-8217-D9A9A844BBA3}|class09.EF\\class09.EF.csproj|d:\\qinshift\\aspnetmvc\\class09\\class09\\class09.ef\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{F89CA8F7-D893-4D1B-8217-D9A9A844BBA3}|class09.EF\\class09.EF.csproj|solutionrelative:class09.ef\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F89CA8F7-D893-4D1B-8217-D9A9A844BBA3}|class09.EF\\class09.EF.csproj|d:\\qinshift\\aspnetmvc\\class09\\class09\\class09.ef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{F89CA8F7-D893-4D1B-8217-D9A9A844BBA3}|class09.EF\\class09.EF.csproj|d:\\aspnetmvc\\class09\\class09\\class09.ef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{F89CA8F7-D893-4D1B-8217-D9A9A844BBA3}|class09.EF\\class09.EF.csproj|solutionrelative:class09.ef\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\qinshift\\aspnetmvc\\class09\\class09\\class09.EF\\Migrations\\20250703134341_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:class09.EF\\Migrations\\20250703134341_Init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F89CA8F7-D893-4D1B-8217-D9A9A844BBA3}|class09.EF\\class09.EF.csproj|d:\\aspnetmvc\\class09\\class09\\class09.ef\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F89CA8F7-D893-4D1B-8217-D9A9A844BBA3}|class09.EF\\class09.EF.csproj|solutionrelative:class09.ef\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F89CA8F7-D893-4D1B-8217-D9A9A844BBA3}|class09.EF\\class09.EF.csproj|d:\\qinshift\\aspnetmvc\\class09\\class09\\class09.ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F89CA8F7-D893-4D1B-8217-D9A9A844BBA3}|class09.EF\\class09.EF.csproj|d:\\aspnetmvc\\class09\\class09\\class09.ef\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F89CA8F7-D893-4D1B-8217-D9A9A844BBA3}|class09.EF\\class09.EF.csproj|solutionrelative:class09.ef\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89CA8F7-D893-4D1B-8217-D9A9A844BBA3}|class09.EF\\class09.EF.csproj|d:\\aspnetmvc\\class09\\class09\\class09.ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F89CA8F7-D893-4D1B-8217-D9A9A844BBA3}|class09.EF\\class09.EF.csproj|solutionrelative:class09.ef\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F89CA8F7-D893-4D1B-8217-D9A9A844BBA3}|class09.EF\\class09.EF.csproj|d:\\qinshift\\aspnetmvc\\class09\\class09\\class09.ef\\database\\academydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F89CA8F7-D893-4D1B-8217-D9A9A844BBA3}|class09.EF\\class09.EF.csproj|d:\\aspnetmvc\\class09\\class09\\class09.ef\\database\\academydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F89CA8F7-D893-4D1B-8217-D9A9A844BBA3}|class09.EF\\class09.EF.csproj|solutionrelative:class09.ef\\database\\academydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F89CA8F7-D893-4D1B-8217-D9A9A844BBA3}|class09.EF\\class09.EF.csproj|d:\\qinshift\\aspnetmvc\\class09\\class09\\class09.ef\\class09.ef.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{F89CA8F7-D893-4D1B-8217-D9A9A844BBA3}|class09.EF\\class09.EF.csproj|d:\\aspnetmvc\\class09\\class09\\class09.ef\\class09.ef.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{F89CA8F7-D893-4D1B-8217-D9A9A844BBA3}|class09.EF\\class09.EF.csproj|solutionrelative:class09.ef\\class09.ef.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F89CA8F7-D893-4D1B-8217-D9A9A844BBA3}|class09.EF\\class09.EF.csproj|d:\\qinshift\\aspnetmvc\\class09\\class09\\class09.ef\\models\\entites\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F89CA8F7-D893-4D1B-8217-D9A9A844BBA3}|class09.EF\\class09.EF.csproj|d:\\aspnetmvc\\class09\\class09\\class09.ef\\models\\entites\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F89CA8F7-D893-4D1B-8217-D9A9A844BBA3}|class09.EF\\class09.EF.csproj|solutionrelative:class09.ef\\models\\entites\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F89CA8F7-D893-4D1B-8217-D9A9A844BBA3}|class09.EF\\class09.EF.csproj|d:\\qinshift\\aspnetmvc\\class09\\class09\\class09.ef\\models\\entites\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F89CA8F7-D893-4D1B-8217-D9A9A844BBA3}|class09.EF\\class09.EF.csproj|d:\\aspnetmvc\\class09\\class09\\class09.ef\\models\\entites\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F89CA8F7-D893-4D1B-8217-D9A9A844BBA3}|class09.EF\\class09.EF.csproj|solutionrelative:class09.ef\\models\\entites\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F89CA8F7-D893-4D1B-8217-D9A9A844BBA3}|class09.EF\\class09.EF.csproj|d:\\aspnetmvc\\class09\\class09\\class09.ef\\migrations\\20250703134341_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F89CA8F7-D893-4D1B-8217-D9A9A844BBA3}|class09.EF\\class09.EF.csproj|solutionrelative:class09.ef\\migrations\\20250703134341_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,15 +46,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\class09\\class09\\class09.EF\\Views\\Courses\\Create.cshtml",
+              "DocumentMoniker": "D:\\aspnetmvc\\class09\\class09\\class09.EF\\Views\\Courses\\Create.cshtml",
               "RelativeDocumentMoniker": "class09.EF\\Views\\Courses\\Create.cshtml",
-              "ToolTip": "D:\\qinshift\\aspnetmvc\\class09\\class09\\class09.EF\\Views\\Courses\\Create.cshtml",
+              "ToolTip": "D:\\aspnetmvc\\class09\\class09\\class09.EF\\Views\\Courses\\Create.cshtml",
               "RelativeToolTip": "class09.EF\\Views\\Courses\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
@@ -63,111 +67,100 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\class09\\class09\\class09.EF\\Views\\Courses\\Index.cshtml",
+              "DocumentMoniker": "D:\\aspnetmvc\\class09\\class09\\class09.EF\\Views\\Courses\\Index.cshtml",
               "RelativeDocumentMoniker": "class09.EF\\Views\\Courses\\Index.cshtml",
-              "ToolTip": "D:\\qinshift\\aspnetmvc\\class09\\class09\\class09.EF\\Views\\Courses\\Index.cshtml",
+              "ToolTip": "D:\\aspnetmvc\\class09\\class09\\class09.EF\\Views\\Courses\\Index.cshtml",
               "RelativeToolTip": "class09.EF\\Views\\Courses\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-03T13:49:12.329Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T13:49:12.329Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\class09\\class09\\class09.EF\\appsettings.json",
+              "DocumentMoniker": "D:\\aspnetmvc\\class09\\class09\\class09.EF\\appsettings.json",
               "RelativeDocumentMoniker": "class09.EF\\appsettings.json",
-              "ToolTip": "D:\\qinshift\\aspnetmvc\\class09\\class09\\class09.EF\\appsettings.json",
+              "ToolTip": "D:\\aspnetmvc\\class09\\class09\\class09.EF\\appsettings.json",
               "RelativeToolTip": "class09.EF\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABsAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-07-03T13:44:56.911Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "20250703134341_Init.cs",
-              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\class09\\class09\\class09.EF\\Migrations\\20250703134341_Init.cs",
+              "DocumentMoniker": "D:\\aspnetmvc\\class09\\class09\\class09.EF\\Migrations\\20250703134341_Init.cs",
               "RelativeDocumentMoniker": "class09.EF\\Migrations\\20250703134341_Init.cs",
-              "ToolTip": "D:\\qinshift\\aspnetmvc\\class09\\class09\\class09.EF\\Migrations\\20250703134341_Init.cs",
+              "ToolTip": "D:\\aspnetmvc\\class09\\class09\\class09.EF\\Migrations\\20250703134341_Init.cs",
               "RelativeToolTip": "class09.EF\\Migrations\\20250703134341_Init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T13:43:41.839Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T13:43:41.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\aspnetmvc\\class09\\class09\\class09.EF\\Program.cs",
+              "RelativeDocumentMoniker": "class09.EF\\Program.cs",
+              "ToolTip": "D:\\aspnetmvc\\class09\\class09\\class09.EF\\Program.cs",
+              "RelativeToolTip": "class09.EF\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T13:42:07.821Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\class09\\class09\\class09.EF\\Program.cs",
-              "RelativeDocumentMoniker": "class09.EF\\Program.cs",
-              "ToolTip": "D:\\qinshift\\aspnetmvc\\class09\\class09\\class09.EF\\Program.cs",
-              "RelativeToolTip": "class09.EF\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Title": "AcademyDbContext.cs",
+              "DocumentMoniker": "D:\\aspnetmvc\\class09\\class09\\class09.EF\\Database\\AcademyDbContext.cs",
+              "RelativeDocumentMoniker": "class09.EF\\Database\\AcademyDbContext.cs",
+              "ToolTip": "D:\\aspnetmvc\\class09\\class09\\class09.EF\\Database\\AcademyDbContext.cs",
+              "RelativeToolTip": "class09.EF\\Database\\AcademyDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T13:42:07.821Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T13:40:36.415Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AcademyDbContext.cs",
-              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\class09\\class09\\class09.EF\\Database\\AcademyDbContext.cs",
-              "RelativeDocumentMoniker": "class09.EF\\Database\\AcademyDbContext.cs",
-              "ToolTip": "D:\\qinshift\\aspnetmvc\\class09\\class09\\class09.EF\\Database\\AcademyDbContext.cs",
-              "RelativeToolTip": "class09.EF\\Database\\AcademyDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T13:40:36.415Z",
-              "EditorCaption": ""
+              "Title": "class09.EF.csproj",
+              "DocumentMoniker": "D:\\aspnetmvc\\class09\\class09\\class09.EF\\class09.EF.csproj",
+              "RelativeDocumentMoniker": "class09.EF\\class09.EF.csproj",
+              "ToolTip": "D:\\aspnetmvc\\class09\\class09\\class09.EF\\class09.EF.csproj",
+              "RelativeToolTip": "class09.EF\\class09.EF.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-03T13:40:06.316Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "class09.EF",
-              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\class09\\class09\\class09.EF\\class09.EF.csproj",
-              "RelativeDocumentMoniker": "class09.EF\\class09.EF.csproj",
-              "ToolTip": "D:\\qinshift\\aspnetmvc\\class09\\class09\\class09.EF\\class09.EF.csproj",
-              "RelativeToolTip": "class09.EF\\class09.EF.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-03T13:40:06.316Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\aspnetmvc\\class09\\class09\\class09.EF\\Models\\Entites\\Course.cs",
+              "RelativeDocumentMoniker": "class09.EF\\Models\\Entites\\Course.cs",
+              "ToolTip": "D:\\aspnetmvc\\class09\\class09\\class09.EF\\Models\\Entites\\Course.cs",
+              "RelativeToolTip": "class09.EF\\Models\\Entites\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T13:35:19.434Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Course.cs",
-              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\class09\\class09\\class09.EF\\Models\\Entites\\Course.cs",
-              "RelativeDocumentMoniker": "class09.EF\\Models\\Entites\\Course.cs",
-              "ToolTip": "D:\\qinshift\\aspnetmvc\\class09\\class09\\class09.EF\\Models\\Entites\\Course.cs",
-              "RelativeToolTip": "class09.EF\\Models\\Entites\\Course.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA6AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T13:35:19.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": "Student.cs",
-              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\class09\\class09\\class09.EF\\Models\\Entites\\Student.cs",
+              "DocumentMoniker": "D:\\aspnetmvc\\class09\\class09\\class09.EF\\Models\\Entites\\Student.cs",
               "RelativeDocumentMoniker": "class09.EF\\Models\\Entites\\Student.cs",
-              "ToolTip": "D:\\qinshift\\aspnetmvc\\class09\\class09\\class09.EF\\Models\\Entites\\Student.cs",
+              "ToolTip": "D:\\aspnetmvc\\class09\\class09\\class09.EF\\Models\\Entites\\Student.cs",
               "RelativeToolTip": "class09.EF\\Models\\Entites\\Student.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-03T13:35:10.85Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T13:35:10.85Z"
             }
           ]
         }

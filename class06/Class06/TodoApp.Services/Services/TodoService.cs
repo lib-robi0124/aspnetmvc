@@ -10,6 +10,8 @@ namespace TodoApp.Services.Services
     public class TodoService : ITodoService
     {
         private readonly IRepository<Todo> _todoRepository;
+
+      
         public TodoService(IRepository<Todo> todoRepository)
         {
             _todoRepository = todoRepository;
@@ -19,7 +21,7 @@ namespace TodoApp.Services.Services
         {
             var newTodo = new Todo
             {
-                Id = StaticDb.Todos.Count + 1,
+               
                 Description = createTodoVM.Description,
                 DueDate = createTodoVM.DueDate,
                 CategoryId = createTodoVM.CategoryId,
@@ -50,6 +52,31 @@ namespace TodoApp.Services.Services
                 return todosDto;
             }
             return todosDto;
+        }
+
+        
+        public bool MarkComplete(int id)
+        {
+            var todo = _todoRepository.GetById(id);
+            if (todo is null)
+            {
+                return false;
+            }
+            todo.StatusId = 2;
+            var index = _todoRepository.GetAll().ToList().IndexOf(todo);
+            _todoRepository.GetAll().ToList()[index] = todo;
+            return true;
+        }
+
+      
+
+        public void RemoveComplete()
+        {
+            var completeTodos = _todoRepository.GetAll().Where(x => x.StatusId == 2).ToList();
+            foreach (var todo in completeTodos)
+            {
+                _todoRepository.Delete(todo.Id);
+            }
         }
     }
 }

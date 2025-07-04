@@ -1,3 +1,5 @@
+using Microsoft.EntityFrameworkCore;
+using TodoApp.DataAccess;
 using TodoApp.DataAccess.Repositories;
 using TodoApp.Domain;
 using TodoApp.Services.Services;
@@ -8,8 +10,17 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
-builder.Services.AddScoped<IRepository<Todo>, TodoRepository>();
-builder.Services.AddScoped<IRepository<Category>, CategoryRepository>();
+builder.Services.AddDbContext<TodoDbContext>(options =>
+    {
+        options.UseSqlServer(builder.Configuration.GetConnectionString("TodoDbConnString"));
+    });
+
+//builder.Services.AddScoped<IRepository<Todo>, TodoRepository>();
+builder.Services.AddScoped<IRepository<Todo>, TodoEfRepository>();
+
+//builder.Services.AddScoped<IRepository<Category>, CategoryRepository>();
+builder.Services.AddScoped<IRepository<Category>, CategoryEfRepository>();
+
 
 builder.Services.AddScoped<ICategoryServices, CategoryServices>();
 builder.Services.AddScoped<ITodoService, TodoService>();

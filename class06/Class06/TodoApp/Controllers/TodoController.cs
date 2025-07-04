@@ -39,5 +39,23 @@ namespace TodoApp.Web.Controllers
             return View(model);
 
         }
+        [HttpPost]
+        public IActionResult MarkComplete(int todoId)
+        {
+            var response = _todoService.MarkComplete(todoId);
+            if(!response)
+            {
+                //TempData["Erromsg"] = "Todo does not exist";
+                ViewBag.ErrorMessage = "Todo does not exist";
+            }
+            return RedirectToAction("Index");
+
+        }
+        [HttpPost]
+        public IActionResult RemoveComplete()
+        {
+            _todoService.RemoveComplete();
+            return RedirectToAction("Index");
+        }
     }
 }
