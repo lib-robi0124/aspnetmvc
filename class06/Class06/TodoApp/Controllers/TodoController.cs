@@ -25,8 +25,8 @@ namespace TodoApp.Web.Controllers
         public IActionResult Create()
         {
             CreateTodoVm createTodoVM = new CreateTodoVm();
-            createTodoVM.Categories = _categoryService.GetAllCategories();
             createTodoVM.DueDate = DateTime.Now;
+            createTodoVM.Categories = _categoryService.GetAllCategories();
             return View(createTodoVM);
         }
         [HttpPost]

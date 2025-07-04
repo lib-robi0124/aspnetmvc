@@ -4,13 +4,13 @@
 	<div class="row">
 		<h2> My Todo list:</h2>
 		<div class="col-md-12">
-            @if(string.IsNullOrEmpty(ViewBag.ErrorMessage))
+            @if(ViewBag.ErrorMessage is not null)
             {
                 <h6 class="alert alert-danger">@ViewBag.ErrorMessage</h6>
             }
 			<table class="table table-bordered table-striped mt-2">
 				<thead>
-      <tr>
+                    <tr>
                         <th>
                             <label asp-for="@Model.FirstOrDefault().Description"></label>
                         </th>
@@ -28,29 +28,31 @@
 				</thead>
 				<tbody>
                     <form asp-action="MarkComplete" asp-controller="Todo" method="post">
-                 @foreach (var todo in Model)
-                    {
-                        string overdueClass = todo.DueDate.Date < DateTime.Now.Date ? "br-danger" : "";
-                        <tr>
+                        @foreach (var todo in Model)
+                        {
+                            string overdueClass = todo.DueDate.Date < DateTime.Now.Date ? "br-danger" : "";
+                            <tr>
                                 <td>@todo.Description</td>
-                                    <td class="@overdueClass">@todo.DueDate.ToShortDateString()</td>
+                                <td class="@overdueClass">@todo.DueDate.ToShortDateString()</td>
                                 <td>@todo.Category</td>
                                 <td>@todo.Status</td>
                                 <td>
-                                    <button type =" submit"class="btn btn-outline-primary btn-sm" value="@todo.Status">Mark as complete</button>
+                                    @if(todo.StatusId == 1) // Assuming 1 is the ID for "Not Completed"
+                                    {
+                                        <button type="submit" class="btn btn-outline-primary btn-sm" name="@nameof(TodoDto.Id)" value="@todo.Id">Mark as complete</button>
+                                    }
+                                    
                                 </td>
                             </tr>
-                    }   
+                        }   
                     </form>
 				</tbody>
 			</table>
 			<div class="row">
-				<div class="col-mb-3">
-					<a asp-action="Create" class="btn btn-primary">Add new todo</a>
-                    <form asp-action="RemoveComplete" asp-controller="Todo" method="post">
-                        <button type="submit" class="btn btn-outline-danger">Remove all completed</button>
-                    </form>
-				</div>
+                <form asp-action="RemoveComplete" asp-controller="Todo" method="post">
+                    <a asp-action="Create" class="btn btn-primary">Add new todo</a>
+                    <button type="submit" class="btn btn-outline-danger">Remove all completed</button>
+                </form>
 			</div>
 		</div>
 	</div>

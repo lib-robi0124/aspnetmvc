@@ -10,7 +10,7 @@ namespace TodoApp.DataAccess
         {  }
         public DbSet<Todo> Todos { get; set; }
         public DbSet<Category> Categories { get; set; }
-        public DbSet<Status> Statutes { get; set; }
+        public DbSet<Status> Statuses { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);

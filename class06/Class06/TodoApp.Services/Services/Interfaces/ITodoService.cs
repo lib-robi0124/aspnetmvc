@@ -7,7 +7,7 @@ namespace TodoApp.Services.Services.Interfaces
     {
         IEnumerable<TodoDto> GetAllTodos();
         void AddTodo(CreateTodoVm createTodoVM);
-        bool MarkComplete(int todoid);
+        bool MarkComplete(int todoId);
         void RemoveComplete();
     }
 }

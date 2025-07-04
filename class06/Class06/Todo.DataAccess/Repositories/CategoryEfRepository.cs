@@ -25,7 +25,7 @@ namespace TodoApp.DataAccess.Repositories
         }
         public void Update(Category entity)
         {
-                _db.Categories.Add(entity);
+                _db.Categories.Update(entity);
                 _db.SaveChanges();
         }
         public void Delete(int id)

@@ -1,16 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{4840872A-CC46-44E7-B3D4-F66E89FE19FE}|TodoApp.Services\\TodoApp.Services.csproj|d:\\qinshift\\aspnetmvc\\class06\\class06\\todoapp.services\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4840872A-CC46-44E7-B3D4-F66E89FE19FE}|TodoApp.Services\\TodoApp.Services.csproj|solutionrelative:todoapp.services\\services\\todoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1504E602-2D5A-4170-9373-7AA03CB8B91D}|Todo.DataAccess\\TodoApp.DataAccess.csproj|d:\\qinshift\\aspnetmvc\\class06\\class06\\todo.dataaccess\\repositories\\todoefrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1504E602-2D5A-4170-9373-7AA03CB8B91D}|Todo.DataAccess\\TodoApp.DataAccess.csproj|solutionrelative:todo.dataaccess\\repositories\\todoefrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -18,33 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TodoService.cs",
-              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\TodoApp.Services\\Services\\TodoService.cs",
-              "RelativeDocumentMoniker": "TodoApp.Services\\Services\\TodoService.cs",
-              "ToolTip": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\TodoApp.Services\\Services\\TodoService.cs",
-              "RelativeToolTip": "TodoApp.Services\\Services\\TodoService.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAgwEEAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T11:44:21.694Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "TodoEfRepository.cs",
-              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\Todo.DataAccess\\Repositories\\TodoEfRepository.cs",
-              "RelativeDocumentMoniker": "Todo.DataAccess\\Repositories\\TodoEfRepository.cs",
-              "ToolTip": "D:\\qinshift\\aspnetmvc\\class06\\Class06\\Todo.DataAccess\\Repositories\\TodoEfRepository.cs",
-              "RelativeToolTip": "Todo.DataAccess\\Repositories\\TodoEfRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-04T11:38:51.441Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             }
           ]
         }
