@@ -5,6 +5,7 @@
 		<h2>Add Todo</h2>
 		<div class="col-md-6">
 			<form asp-action="Create" method="post" asp-controller="Todo">
+				<div asp-validation-summary="All" class="text-danger"></div>
 				<div>
 					<label asp-for="Description" class="form-label">Title</label>
 					<input asp-for="Description" class="form-control" />
@@ -19,7 +20,7 @@
 					<option value="0">Select Category</option>
                     </select>
                 </div>
-				<button type="submit" class="btn btn-primary">Create</button>
+				<button type="submit" class="btn btn-primary mt-4">Create</button>
 				</form>
 		</div>
 	</div>

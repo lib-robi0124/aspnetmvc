@@ -1,5 +1,6 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using TodoApp.Services.Dtos;
+using TodoApp.Services.Services;
 using TodoApp.Services.Services.Interfaces;
 using TodoApp.Web.Models;
 
@@ -9,11 +10,11 @@ namespace TodoApp.Web.Controllers
     public class TodoController : Controller
     {
         private readonly ITodoService _todoService;
-        private readonly ICategoryServices _categoryServices;
-        public TodoController(ITodoService todoService, ICategoryServices categoryServices)
+        private readonly ICategoryServices _categoryService;
+        public TodoController(ITodoService todoService, ICategoryServices categoryService)
         {
             _todoService = todoService;
-            _categoryServices = categoryServices;
+            _categoryService = categoryService;
         }
         public IActionResult Index()
         {
@@ -24,7 +25,7 @@ namespace TodoApp.Web.Controllers
         public IActionResult Create()
         {
             CreateTodoVm createTodoVM = new CreateTodoVm();
-            createTodoVM.Categories = _categoryServices.GetAllCategories();
+            createTodoVM.Categories = _categoryService.GetAllCategories();
             createTodoVM.DueDate = DateTime.Now;
             return View(createTodoVM);
         }
@@ -33,6 +34,12 @@ namespace TodoApp.Web.Controllers
         {
             if (ModelState.IsValid)
             {
+                if (model.CategoryId == 0)
+                {
+                    ModelState.AddModelError("", "Please select category!");
+                    model.Categories = _categoryService.GetAllCategories();
+                    return View(model);
+                }
                 _todoService.AddTodo(model);
                 return RedirectToAction("Index");
             }
@@ -40,9 +47,9 @@ namespace TodoApp.Web.Controllers
 
         }
         [HttpPost]
-        public IActionResult MarkComplete(int todoId)
+        public IActionResult MarkComplete(int id)
         {
-            var response = _todoService.MarkComplete(todoId);
+            var response = _todoService.MarkComplete(id);
             if(!response)
             {
                 //TempData["Erromsg"] = "Todo does not exist";

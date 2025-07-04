@@ -1,7 +1,10 @@
-﻿namespace TodoApp.Domain
+﻿using System.ComponentModel.DataAnnotations;
+
+namespace TodoApp.Domain
 {
     public class Todo : BaseEntity
     {
+        [MaxLength(10)]
         public string Description { get; set; }
         public DateTime DueDate { get; set; }
         public int StatusId { get; set; }

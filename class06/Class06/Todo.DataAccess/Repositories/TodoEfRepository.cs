@@ -9,31 +9,33 @@ namespace TodoApp.DataAccess.Repositories
         {
             _db = db;
         }
-
-        public void Create(Todo entity)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void Delete(int id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public IEnumerable<Todo> GetAll()
-        {
-            return _db.Todos;
-        }
-
+         public IEnumerable<Todo> GetAll()
+                {
+                    return _db.Todos;
+                }
         public Todo GetById(int id)
         {
-            throw new NotImplementedException();
+            return _db.Todos.SingleOrDefault(x => x.Id == id);
         }
-
-        public void Update(Todo entity)
+        public void Create(Todo entity)
         {
-            _db.Todos.Update(entity);
+            _db.Todos.Add(entity);
             _db.SaveChanges();
         }
+         public void Update(Todo entity)
+                {
+                    _db.Todos.Update(entity);
+                    _db.SaveChanges();
+                }
+        public void Delete(int id)
+        {
+            var todo = _db.Todos.SingleOrDefault(x => x.Id == id);
+            if (todo != null)
+            {
+                _db.Todos.Remove(todo);
+                _db.SaveChanges();
+            }
+        }
+              
     }
 }

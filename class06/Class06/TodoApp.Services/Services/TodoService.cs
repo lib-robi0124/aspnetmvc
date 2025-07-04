@@ -55,16 +55,15 @@ namespace TodoApp.Services.Services
         }
 
         
-        public bool MarkComplete(int id)
+        public bool MarkComplete(int todoId)
         {
-            var todo = _todoRepository.GetById(id);
+            var todo = _todoRepository.GetById(todoId);
             if (todo is null)
             {
                 return false;
             }
             todo.StatusId = 2;
-            var index = _todoRepository.GetAll().ToList().IndexOf(todo);
-            _todoRepository.GetAll().ToList()[index] = todo;
+            _todoRepository.Update(todo);
             return true;
         }
 

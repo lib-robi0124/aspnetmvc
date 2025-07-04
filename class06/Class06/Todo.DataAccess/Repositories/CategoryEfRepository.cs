@@ -9,31 +9,34 @@ namespace TodoApp.DataAccess.Repositories
         public CategoryEfRepository(TodoDbContext db)
         {
             _db = db;
+        } 
+        public IEnumerable<Category> GetAll()
+        {
+            return _db.Categories;
+        } 
+        public Category GetById(int id)
+        {
+            return _db.Categories.SingleOrDefault(x => x.Id == id);
         }
         public void Create(Category entity)
         {
             _db.Categories.Add(entity);
             _db.SaveChanges();
         }
-
-        public void Delete(int id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public IEnumerable<Category> GetAll()
-        {
-            throw new NotImplementedException();
-        }
-
-        public Category GetById(int id)
-        {
-            throw new NotImplementedException();
-        }
-
         public void Update(Category entity)
         {
-            throw new NotImplementedException();
+                _db.Categories.Add(entity);
+                _db.SaveChanges();
         }
+        public void Delete(int id)
+        {
+            var category = _db.Categories.SingleOrDefault(x => x.Id == id);
+            if (category != null)
+            {
+                _db.Categories.Remove(category);
+                _db.SaveChanges();
+            }
+        }
+    
     }
 }
