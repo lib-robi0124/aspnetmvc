@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\MovieRentalApp.Database\MovieRentalApp.Database.csproj" />
+    <ProjectReference Include="..\MovieRentalApp.Domain\MovieRentalApp.Domain.csproj" />
+    <ProjectReference Include="..\MovieRentalApp.Dtos\MovieRentalApp.Dtos.csproj" />
+  </ItemGroup>
+
+</Project>
