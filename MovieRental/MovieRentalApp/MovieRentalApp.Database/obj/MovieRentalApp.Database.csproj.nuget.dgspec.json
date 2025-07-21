@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\qinshift\\aspnetmvc\\MovieRental\\MovieRentalApp\\MovieRentalApp.Database\\MovieRentalApp.Database.csproj": {}
+    "C:\\qinshift\\aspnetmvc\\MovieRental\\MovieRentalApp\\MovieRentalApp.Database\\MovieRentalApp.Database.csproj": {}
   },
   "projects": {
-    "D:\\qinshift\\aspnetmvc\\MovieRental\\MovieRentalApp\\MovieRentalApp.Database\\MovieRentalApp.Database.csproj": {
+    "C:\\qinshift\\aspnetmvc\\MovieRental\\MovieRentalApp\\MovieRentalApp.Database\\MovieRentalApp.Database.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\qinshift\\aspnetmvc\\MovieRental\\MovieRentalApp\\MovieRentalApp.Database\\MovieRentalApp.Database.csproj",
+        "projectUniqueName": "C:\\qinshift\\aspnetmvc\\MovieRental\\MovieRentalApp\\MovieRentalApp.Database\\MovieRentalApp.Database.csproj",
         "projectName": "MovieRentalApp.Database",
-        "projectPath": "D:\\qinshift\\aspnetmvc\\MovieRental\\MovieRentalApp\\MovieRentalApp.Database\\MovieRentalApp.Database.csproj",
-        "packagesPath": "C:\\Users\\Robertr2\\.nuget\\packages\\",
-        "outputPath": "D:\\qinshift\\aspnetmvc\\MovieRental\\MovieRentalApp\\MovieRentalApp.Database\\obj\\",
+        "projectPath": "C:\\qinshift\\aspnetmvc\\MovieRental\\MovieRentalApp\\MovieRentalApp.Database\\MovieRentalApp.Database.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "C:\\qinshift\\aspnetmvc\\MovieRental\\MovieRentalApp\\MovieRentalApp.Database\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Robertr2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\qinshift\\aspnetmvc\\MovieRental\\MovieRentalApp\\MovieRentalApp.Domain\\MovieRentalApp.Domain.csproj": {
-                "projectPath": "D:\\qinshift\\aspnetmvc\\MovieRental\\MovieRentalApp\\MovieRentalApp.Domain\\MovieRentalApp.Domain.csproj"
+              "C:\\qinshift\\aspnetmvc\\MovieRental\\MovieRentalApp\\MovieRentalApp.Domain\\MovieRentalApp.Domain.csproj": {
+                "projectPath": "C:\\qinshift\\aspnetmvc\\MovieRental\\MovieRentalApp\\MovieRentalApp.Domain\\MovieRentalApp.Domain.csproj"
               }
             }
           }
@@ -89,20 +89,20 @@
         }
       }
     },
-    "D:\\qinshift\\aspnetmvc\\MovieRental\\MovieRentalApp\\MovieRentalApp.Domain\\MovieRentalApp.Domain.csproj": {
+    "C:\\qinshift\\aspnetmvc\\MovieRental\\MovieRentalApp\\MovieRentalApp.Domain\\MovieRentalApp.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\qinshift\\aspnetmvc\\MovieRental\\MovieRentalApp\\MovieRentalApp.Domain\\MovieRentalApp.Domain.csproj",
+        "projectUniqueName": "C:\\qinshift\\aspnetmvc\\MovieRental\\MovieRentalApp\\MovieRentalApp.Domain\\MovieRentalApp.Domain.csproj",
         "projectName": "MovieRentalApp.Domain",
-        "projectPath": "D:\\qinshift\\aspnetmvc\\MovieRental\\MovieRentalApp\\MovieRentalApp.Domain\\MovieRentalApp.Domain.csproj",
-        "packagesPath": "C:\\Users\\Robertr2\\.nuget\\packages\\",
-        "outputPath": "D:\\qinshift\\aspnetmvc\\MovieRental\\MovieRentalApp\\MovieRentalApp.Domain\\obj\\",
+        "projectPath": "C:\\qinshift\\aspnetmvc\\MovieRental\\MovieRentalApp\\MovieRentalApp.Domain\\MovieRentalApp.Domain.csproj",
+        "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
+        "outputPath": "C:\\qinshift\\aspnetmvc\\MovieRental\\MovieRentalApp\\MovieRentalApp.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Robertr2\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Administrator\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],

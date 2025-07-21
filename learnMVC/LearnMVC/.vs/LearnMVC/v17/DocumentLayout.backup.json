@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\qinshift\\aspnetmvc\\learnMVC\\LearnMVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{790EFD4F-F489-4A71-A7DB-235A17409758}|FinanceApp\\FinanceApp.csproj|c:\\qinshift\\aspnetmvc\\learnmvc\\learnmvc\\financeapp\\views\\expences\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{790EFD4F-F489-4A71-A7DB-235A17409758}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\views\\expences\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790EFD4F-F489-4A71-A7DB-235A17409758}|FinanceApp\\FinanceApp.csproj|c:\\qinshift\\aspnetmvc\\learnmvc\\learnmvc\\financeapp\\data\\service\\iexpencesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790EFD4F-F489-4A71-A7DB-235A17409758}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\data\\service\\iexpencesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790EFD4F-F489-4A71-A7DB-235A17409758}|FinanceApp\\FinanceApp.csproj|c:\\qinshift\\aspnetmvc\\learnmvc\\learnmvc\\financeapp\\views\\expences\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{790EFD4F-F489-4A71-A7DB-235A17409758}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\views\\expences\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790EFD4F-F489-4A71-A7DB-235A17409758}|FinanceApp\\FinanceApp.csproj|c:\\qinshift\\aspnetmvc\\learnmvc\\learnmvc\\financeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790EFD4F-F489-4A71-A7DB-235A17409758}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790EFD4F-F489-4A71-A7DB-235A17409758}|FinanceApp\\FinanceApp.csproj|c:\\qinshift\\aspnetmvc\\learnmvc\\learnmvc\\financeapp\\controllers\\expencescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790EFD4F-F489-4A71-A7DB-235A17409758}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\controllers\\expencescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{790EFD4F-F489-4A71-A7DB-235A17409758}|FinanceApp\\FinanceApp.csproj|c:\\qinshift\\aspnetmvc\\learnmvc\\learnmvc\\financeapp\\data\\service\\expencesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{790EFD4F-F489-4A71-A7DB-235A17409758}|FinanceApp\\FinanceApp.csproj|solutionrelative:financeapp\\data\\service\\expencesservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\qinshift\\aspnetmvc\\learnMVC\\LearnMVC\\FinanceApp\\Views\\Expences\\Index.cshtml",
+              "RelativeDocumentMoniker": "FinanceApp\\Views\\Expences\\Index.cshtml",
+              "ToolTip": "C:\\qinshift\\aspnetmvc\\learnMVC\\LearnMVC\\FinanceApp\\Views\\Expences\\Index.cshtml",
+              "RelativeToolTip": "FinanceApp\\Views\\Expences\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAB0AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T13:07:26.526Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExpencesService.cs",
+              "DocumentMoniker": "C:\\qinshift\\aspnetmvc\\learnMVC\\LearnMVC\\FinanceApp\\Data\\Service\\ExpencesService.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\Data\\Service\\ExpencesService.cs",
+              "ToolTip": "C:\\qinshift\\aspnetmvc\\learnMVC\\LearnMVC\\FinanceApp\\Data\\Service\\ExpencesService.cs",
+              "RelativeToolTip": "FinanceApp\\Data\\Service\\ExpencesService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwCEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T12:52:40.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IExpencesService.cs",
+              "DocumentMoniker": "C:\\qinshift\\aspnetmvc\\learnMVC\\LearnMVC\\FinanceApp\\Data\\Service\\IExpencesService.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\Data\\Service\\IExpencesService.cs",
+              "ToolTip": "C:\\qinshift\\aspnetmvc\\learnMVC\\LearnMVC\\FinanceApp\\Data\\Service\\IExpencesService.cs",
+              "RelativeToolTip": "FinanceApp\\Data\\Service\\IExpencesService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T12:50:08.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\qinshift\\aspnetmvc\\learnMVC\\LearnMVC\\FinanceApp\\Views\\Expences\\Create.cshtml",
+              "RelativeDocumentMoniker": "FinanceApp\\Views\\Expences\\Create.cshtml",
+              "ToolTip": "C:\\qinshift\\aspnetmvc\\learnMVC\\LearnMVC\\FinanceApp\\Views\\Expences\\Create.cshtml",
+              "RelativeToolTip": "FinanceApp\\Views\\Expences\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T12:16:59.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExpencesController.cs",
+              "DocumentMoniker": "C:\\qinshift\\aspnetmvc\\learnMVC\\LearnMVC\\FinanceApp\\Controllers\\ExpencesController.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\Controllers\\ExpencesController.cs",
+              "ToolTip": "C:\\qinshift\\aspnetmvc\\learnMVC\\LearnMVC\\FinanceApp\\Controllers\\ExpencesController.cs",
+              "RelativeToolTip": "FinanceApp\\Controllers\\ExpencesController.cs",
+              "ViewState": "AgIAADsAAAAAAAAAAAAwwEwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T11:47:25.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\qinshift\\aspnetmvc\\learnMVC\\LearnMVC\\FinanceApp\\Program.cs",
+              "RelativeDocumentMoniker": "FinanceApp\\Program.cs",
+              "ToolTip": "C:\\qinshift\\aspnetmvc\\learnMVC\\LearnMVC\\FinanceApp\\Program.cs",
+              "RelativeToolTip": "FinanceApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-20T11:35:34.876Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
