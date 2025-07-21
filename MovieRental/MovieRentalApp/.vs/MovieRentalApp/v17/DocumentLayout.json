@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\qinshift\\aspnetmvc\\MovieRental\\MovieRentalApp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{94EA4B82-8FC7-4C3C-AE0A-87FD07BF5560}|MovieRentalApp.Dtos\\MovieRentalApp.Dtos.csproj|d:\\qinshift\\aspnetmvc\\movierental\\movierentalapp\\movierentalapp.dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{94EA4B82-8FC7-4C3C-AE0A-87FD07BF5560}|MovieRentalApp.Dtos\\MovieRentalApp.Dtos.csproj|solutionrelative:movierentalapp.dtos\\moviedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,21 +9,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": -1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MovieDto.cs",
-              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\MovieRental\\MovieRentalApp\\MovieRentalApp.Dtos\\MovieDto.cs",
-              "RelativeDocumentMoniker": "MovieRentalApp.Dtos\\MovieDto.cs",
-              "ToolTip": "D:\\qinshift\\aspnetmvc\\MovieRental\\MovieRentalApp\\MovieRentalApp.Dtos\\MovieDto.cs",
-              "RelativeToolTip": "MovieRentalApp.Dtos\\MovieDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-17T07:25:58.803Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
