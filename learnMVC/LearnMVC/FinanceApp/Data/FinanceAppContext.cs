@@ -12,7 +12,7 @@ namespace FinanceApp.Data
         public DbSet<Expence> Expences { get; set; }
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-            modelBuilder.Entity<FinanceApp.Models.Expence>().ToTable("Expences");
+            modelBuilder.Entity<Expence>().ToTable("Expences");
             base.OnModelCreating(modelBuilder);
         }
     }

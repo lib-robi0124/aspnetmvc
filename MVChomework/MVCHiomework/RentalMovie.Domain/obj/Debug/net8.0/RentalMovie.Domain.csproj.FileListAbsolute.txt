@@ -1,0 +1,12 @@
+D:\qinshift\aspnetmvc\MVChomework\MVCHiomework\RentalMovie.Domain\bin\Debug\net8.0\RentalMovie.Domain.deps.json
+D:\qinshift\aspnetmvc\MVChomework\MVCHiomework\RentalMovie.Domain\bin\Debug\net8.0\RentalMovie.Domain.dll
+D:\qinshift\aspnetmvc\MVChomework\MVCHiomework\RentalMovie.Domain\bin\Debug\net8.0\RentalMovie.Domain.pdb
+D:\qinshift\aspnetmvc\MVChomework\MVCHiomework\RentalMovie.Domain\obj\Debug\net8.0\RentalMovie.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\qinshift\aspnetmvc\MVChomework\MVCHiomework\RentalMovie.Domain\obj\Debug\net8.0\RentalMovie.Domain.AssemblyInfoInputs.cache
+D:\qinshift\aspnetmvc\MVChomework\MVCHiomework\RentalMovie.Domain\obj\Debug\net8.0\RentalMovie.Domain.AssemblyInfo.cs
+D:\qinshift\aspnetmvc\MVChomework\MVCHiomework\RentalMovie.Domain\obj\Debug\net8.0\RentalMovie.Domain.csproj.CoreCompileInputs.cache
+D:\qinshift\aspnetmvc\MVChomework\MVCHiomework\RentalMovie.Domain\obj\Debug\net8.0\RentalMovie.Domain.sourcelink.json
+D:\qinshift\aspnetmvc\MVChomework\MVCHiomework\RentalMovie.Domain\obj\Debug\net8.0\RentalMovie.Domain.dll
+D:\qinshift\aspnetmvc\MVChomework\MVCHiomework\RentalMovie.Domain\obj\Debug\net8.0\refint\RentalMovie.Domain.dll
+D:\qinshift\aspnetmvc\MVChomework\MVCHiomework\RentalMovie.Domain\obj\Debug\net8.0\RentalMovie.Domain.pdb
+D:\qinshift\aspnetmvc\MVChomework\MVCHiomework\RentalMovie.Domain\obj\Debug\net8.0\ref\RentalMovie.Domain.dll
