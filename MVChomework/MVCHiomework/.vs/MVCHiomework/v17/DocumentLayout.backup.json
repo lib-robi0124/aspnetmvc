@@ -1,30 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\qinshift\\aspnetmvc\\MVChomework\\MVCHiomework\\",
+  "WorkspaceRootPath": "C:\\qinshift\\aspnetmvc\\MVChomework\\MVCHiomework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9B5FC1C-DC4A-4EEF-B21B-6DCE7C09FA37}|RentalMovie.Database\\RentalMovie.Database.csproj|d:\\qinshift\\aspnetmvc\\mvchomework\\mvchiomework\\rentalmovie.database\\implementation\\movierespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9B5FC1C-DC4A-4EEF-B21B-6DCE7C09FA37}|RentalMovie.Database\\RentalMovie.Database.csproj|solutionrelative:rentalmovie.database\\implementation\\movierespository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9B5FC1C-DC4A-4EEF-B21B-6DCE7C09FA37}|RentalMovie.Database\\RentalMovie.Database.csproj|d:\\qinshift\\aspnetmvc\\mvchomework\\mvchiomework\\rentalmovie.database\\rentalmoviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{C9B5FC1C-DC4A-4EEF-B21B-6DCE7C09FA37}|RentalMovie.Database\\RentalMovie.Database.csproj|c:\\qinshift\\aspnetmvc\\mvchomework\\mvchiomework\\rentalmovie.database\\rentalmoviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C9B5FC1C-DC4A-4EEF-B21B-6DCE7C09FA37}|RentalMovie.Database\\RentalMovie.Database.csproj|solutionrelative:rentalmovie.database\\rentalmoviedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9B5FC1C-DC4A-4EEF-B21B-6DCE7C09FA37}|RentalMovie.Database\\RentalMovie.Database.csproj|d:\\qinshift\\aspnetmvc\\mvchomework\\mvchiomework\\rentalmovie.database\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9B5FC1C-DC4A-4EEF-B21B-6DCE7C09FA37}|RentalMovie.Database\\RentalMovie.Database.csproj|solutionrelative:rentalmovie.database\\interfaces\\imovierepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{792A4204-614E-428E-8D90-55223EC9C258}|RentalMovie\\RentalMovie.csproj|c:\\qinshift\\aspnetmvc\\mvchomework\\mvchiomework\\rentalmovie\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{792A4204-614E-428E-8D90-55223EC9C258}|RentalMovie\\RentalMovie.csproj|solutionrelative:rentalmovie\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C9B5FC1C-DC4A-4EEF-B21B-6DCE7C09FA37}|RentalMovie.Database\\RentalMovie.Database.csproj|d:\\qinshift\\aspnetmvc\\mvchomework\\mvchiomework\\rentalmovie.database\\interfaces\\irentalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9B5FC1C-DC4A-4EEF-B21B-6DCE7C09FA37}|RentalMovie.Database\\RentalMovie.Database.csproj|solutionrelative:rentalmovie.database\\interfaces\\irentalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9B5FC1C-DC4A-4EEF-B21B-6DCE7C09FA37}|RentalMovie.Database\\RentalMovie.Database.csproj|d:\\qinshift\\aspnetmvc\\mvchomework\\mvchiomework\\rentalmovie.database\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9B5FC1C-DC4A-4EEF-B21B-6DCE7C09FA37}|RentalMovie.Database\\RentalMovie.Database.csproj|solutionrelative:rentalmovie.database\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C9B5FC1C-DC4A-4EEF-B21B-6DCE7C09FA37}|RentalMovie.Database\\RentalMovie.Database.csproj|d:\\qinshift\\aspnetmvc\\mvchomework\\mvchiomework\\rentalmovie.database\\rentalmovie.database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{C9B5FC1C-DC4A-4EEF-B21B-6DCE7C09FA37}|RentalMovie.Database\\RentalMovie.Database.csproj|solutionrelative:rentalmovie.database\\rentalmovie.database.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{792A4204-614E-428E-8D90-55223EC9C258}|RentalMovie\\RentalMovie.csproj|c:\\qinshift\\aspnetmvc\\mvchomework\\mvchiomework\\rentalmovie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{792A4204-614E-428E-8D90-55223EC9C258}|RentalMovie\\RentalMovie.csproj|solutionrelative:rentalmovie\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,71 +22,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MovieRespository.cs",
-              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\MVChomework\\MVCHiomework\\RentalMovie.Database\\Implementation\\MovieRespository.cs",
-              "RelativeDocumentMoniker": "RentalMovie.Database\\Implementation\\MovieRespository.cs",
-              "ToolTip": "D:\\qinshift\\aspnetmvc\\MVChomework\\MVCHiomework\\RentalMovie.Database\\Implementation\\MovieRespository.cs",
-              "RelativeToolTip": "RentalMovie.Database\\Implementation\\MovieRespository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T10:46:51.016Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IRentalRepository.cs",
-              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\MVChomework\\MVCHiomework\\RentalMovie.Database\\Interfaces\\IRentalRepository.cs",
-              "RelativeDocumentMoniker": "RentalMovie.Database\\Interfaces\\IRentalRepository.cs",
-              "ToolTip": "D:\\qinshift\\aspnetmvc\\MVChomework\\MVCHiomework\\RentalMovie.Database\\Interfaces\\IRentalRepository.cs",
-              "RelativeToolTip": "RentalMovie.Database\\Interfaces\\IRentalRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T08:00:40.591Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "IMovieRepository.cs",
-              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\MVChomework\\MVCHiomework\\RentalMovie.Database\\Interfaces\\IMovieRepository.cs",
-              "RelativeDocumentMoniker": "RentalMovie.Database\\Interfaces\\IMovieRepository.cs",
-              "ToolTip": "D:\\qinshift\\aspnetmvc\\MVChomework\\MVCHiomework\\RentalMovie.Database\\Interfaces\\IMovieRepository.cs",
-              "RelativeToolTip": "RentalMovie.Database\\Interfaces\\IMovieRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\qinshift\\aspnetmvc\\MVChomework\\MVCHiomework\\RentalMovie\\Program.cs",
+              "RelativeDocumentMoniker": "RentalMovie\\Program.cs",
+              "ToolTip": "C:\\qinshift\\aspnetmvc\\MVChomework\\MVCHiomework\\RentalMovie\\Program.cs",
+              "RelativeToolTip": "RentalMovie\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T07:59:55.296Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\MVChomework\\MVCHiomework\\RentalMovie.Database\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "RentalMovie.Database\\Interfaces\\IRepository.cs",
-              "ToolTip": "D:\\qinshift\\aspnetmvc\\MVChomework\\MVCHiomework\\RentalMovie.Database\\Interfaces\\IRepository.cs*",
-              "RelativeToolTip": "RentalMovie.Database\\Interfaces\\IRepository.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T07:58:23.395Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "RentalMovie.Database",
-              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\MVChomework\\MVCHiomework\\RentalMovie.Database\\RentalMovie.Database.csproj",
-              "RelativeDocumentMoniker": "RentalMovie.Database\\RentalMovie.Database.csproj",
-              "ToolTip": "D:\\qinshift\\aspnetmvc\\MVChomework\\MVCHiomework\\RentalMovie.Database\\RentalMovie.Database.csproj*",
-              "RelativeToolTip": "RentalMovie.Database\\RentalMovie.Database.csproj*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-07-22T07:12:02.412Z",
+              "WhenOpened": "2025-07-22T19:01:49.764Z",
               "EditorCaption": ""
             },
             {
@@ -108,14 +44,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\qinshift\\aspnetmvc\\MVChomework\\MVCHiomework\\RentalMovie\\appsettings.json",
+              "RelativeDocumentMoniker": "RentalMovie\\appsettings.json",
+              "ToolTip": "C:\\qinshift\\aspnetmvc\\MVChomework\\MVCHiomework\\RentalMovie\\appsettings.json",
+              "RelativeToolTip": "RentalMovie\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-22T18:51:55.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "RentalMovieDbContext.cs",
-              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\MVChomework\\MVCHiomework\\RentalMovie.Database\\RentalMovieDbContext.cs",
+              "DocumentMoniker": "C:\\qinshift\\aspnetmvc\\MVChomework\\MVCHiomework\\RentalMovie.Database\\RentalMovieDbContext.cs",
               "RelativeDocumentMoniker": "RentalMovie.Database\\RentalMovieDbContext.cs",
-              "ToolTip": "D:\\qinshift\\aspnetmvc\\MVChomework\\MVCHiomework\\RentalMovie.Database\\RentalMovieDbContext.cs",
+              "ToolTip": "C:\\qinshift\\aspnetmvc\\MVChomework\\MVCHiomework\\RentalMovie.Database\\RentalMovieDbContext.cs",
               "RelativeToolTip": "RentalMovie.Database\\RentalMovieDbContext.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAkwBwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAwwAoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-21T08:33:14.732Z",
+              "WhenOpened": "2025-07-22T18:51:05.199Z",
               "EditorCaption": ""
             }
           ]

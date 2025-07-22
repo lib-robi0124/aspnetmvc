@@ -10,7 +10,7 @@
         Italian,
         Japanese,
         Chinese,
-        Russian,
+        Mandarin,
         Hindi
     }
 }

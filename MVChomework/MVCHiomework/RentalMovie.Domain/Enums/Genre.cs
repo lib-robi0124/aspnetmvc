@@ -9,8 +9,9 @@
         Horror,
         Romance,
         Thriller,
-        Documentary,
+        Adventure,
         Animation,
-        Fantasy
+        Fantasy,
+        Mystery
     }
 }

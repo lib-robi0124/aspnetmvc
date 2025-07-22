@@ -4,7 +4,7 @@ namespace RentalMovie.Domain
 {
     public class Cast : BaseEntity
     {
-        public string MovieId { get; set; } = null!;
+        public int MovieId { get; set; }
         public string Name { get; set; } = null!;
         public Part Part { get; set; } 
         public override string Print()
