@@ -1,0 +1,23 @@
+﻿@{
+    ViewData["Title"] = "Login";
+    var error = ViewBag.Error as string;
+}
+
+<div class="container d-flex align-items-center justify-content-center" style="height: 100vh;">
+    <div class="card shadow-lg p-4" style="width: 100%; max-width: 400px;">
+        <h2 class="text-center mb-4">User Login</h2>
+
+        @if (!string.IsNullOrEmpty(error))
+        {
+            <div class="alert alert-danger">@error</div>
+        }
+
+        <form asp-action="Login" method="post">
+            <div class="mb-3">
+                <label for="cardNumber" class="form-label">Card Number</label>
+                <input type="text" class="form-control" id="cardNumber" name="CardNumber" required />
+            </div>
+            <button type="submit" class="btn btn-primary w-100">Login</button>
+        </form>
+    </div>
+</div>

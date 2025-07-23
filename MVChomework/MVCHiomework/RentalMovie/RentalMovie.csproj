@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\RentalMovie.Database\RentalMovie.Database.csproj" />
+    <ProjectReference Include="..\RentalMovie.Services\RentalMovie.Services.csproj" />
   </ItemGroup>
 
 </Project>

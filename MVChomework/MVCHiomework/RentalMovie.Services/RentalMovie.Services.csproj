@@ -9,7 +9,6 @@
   <ItemGroup>
     <ProjectReference Include="..\RentalMovie.Database\RentalMovie.Database.csproj" />
     <ProjectReference Include="..\RentalMovie.Domain\RentalMovie.Domain.csproj" />
-    <ProjectReference Include="..\RentalMovie\RentalMovie.csproj" />
   </ItemGroup>
 
 </Project>

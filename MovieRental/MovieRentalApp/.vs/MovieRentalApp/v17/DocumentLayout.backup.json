@@ -1,12 +1,7 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\qinshift\\aspnetmvc\\MovieRental\\MovieRentalApp\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{E1F7CBC8-91B8-413E-8641-AFCA7187D857}|MovieRentalApp.Database\\MovieRentalApp.Database.csproj|d:\\qinshift\\aspnetmvc\\movierental\\movierentalapp\\movierentalapp.database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E1F7CBC8-91B8-413E-8641-AFCA7187D857}|MovieRentalApp.Database\\MovieRentalApp.Database.csproj|solutionrelative:movierentalapp.database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -14,24 +9,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\MovieRental\\MovieRentalApp\\MovieRentalApp.Database\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "MovieRentalApp.Database\\AppDbContext.cs",
-              "ToolTip": "D:\\qinshift\\aspnetmvc\\MovieRental\\MovieRentalApp\\MovieRentalApp.Database\\AppDbContext.cs",
-              "RelativeToolTip": "MovieRentalApp.Database\\AppDbContext.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T07:10:23.238Z",
-              "EditorCaption": ""
             }
           ]
         }

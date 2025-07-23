@@ -5,54 +5,61 @@ namespace RentalMovie.Database.Implementation
 {
     public class RentalRepository : IRentalRepository
     {
-        public void Add(Rental entity)
+        private readonly RentalMovieDbContext _db;
+        public RentalRepository(RentalMovieDbContext db)
         {
-            throw new NotImplementedException();
+            _db = db;
         }
-
-        public void Delete(int id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public void ExtendRental(int rentalId, DateTime newReturnDate)
-        {
-            throw new NotImplementedException();
-        }
-
-        public IEnumerable<Rental> GetActiveRentals()
-        {
-            throw new NotImplementedException();
-        }
-
-        public IEnumerable<Rental> GetAll()
-        {
-            throw new NotImplementedException();
-        }
-
-        public Rental GetById(int id)
-        {
-            throw new NotImplementedException();
-        }
-
-        public IEnumerable<Rental> GetOverdueRentals()
-        {
-            throw new NotImplementedException();
-        }
-
         public IEnumerable<Rental> GetRentalsByUserId(int userId)
         {
-            throw new NotImplementedException();
+            return _db.Rentals.Where(r => r.UserId == userId && r.ReturnedOn == DateTime.MinValue).ToList();
         }
 
-        public void MarkAsReturned(int rentalId)
+        public bool MarkAsReturned(int rentalId, int userId)
         {
-            throw new NotImplementedException();
+            var rental = _db.Rentals.FirstOrDefault(r => r.Id == rentalId && r.UserId == userId && r.ReturnedOn == DateTime.MinValue);
+            if (rental == null)
+            {
+                return false; // Rental not found or already returned
+            }
+            rental.ReturnedOn = DateTime.UtcNow;
+            var movie = _db.Movies.FirstOrDefault(m => m.Id == rental.MovieId);
+            if (movie != null)
+            {
+                movie.Quantity++; // Increment the quantity of the movie
+                if (movie.Quantity > 0)
+                {
+                    movie.IsAvailable = true; // Mark the movie as available
+                }
+                    
+            }
+            _db.SaveChanges();
+            return true; // Rental marked as returned successfully
         }
 
-        public void Update(Rental entity)
+        public bool RentMovie(int movieId, int userId)
         {
-            throw new NotImplementedException();
+            var movie = _db.Movies.FirstOrDefault(m => m.Id == movieId && m.IsAvailable);
+            if (movie == null || movie.Quantity <= 0)
+            {
+                return false; // Movie not available for rent
+            }
+            var rental = new Rental
+            {
+                MovieId = movieId,
+                UserId = userId,
+                RentedOn = DateTime.UtcNow,
+                ReturnedOn = DateTime.MinValue // Not returned yet
+            };
+            _db.Rentals.Add(rental);
+            movie.Quantity--; // Decrement the quantity of the movie
+            if (movie.Quantity == 0)
+            {
+                movie.IsAvailable = false; // Mark the movie as not available
+            }
+            _db.SaveChanges();
+            return true; // Rental created successfully
         }
+ 
     }
 }

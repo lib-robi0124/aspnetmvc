@@ -11,7 +11,7 @@
           "Microsoft.EntityFrameworkCore": "8.0.18",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.18",
           "Microsoft.EntityFrameworkCore.Tools": "8.0.18",
-          "RentalMovie.Database": "1.0.0"
+          "RentalMovie.Services": "1.0.0"
         },
         "runtime": {
           "RentalMovie.dll": {}
@@ -919,6 +919,18 @@
             "fileVersion": "1.0.0.0"
           }
         }
+      },
+      "RentalMovie.Services/1.0.0": {
+        "dependencies": {
+          "RentalMovie.Database": "1.0.0",
+          "RentalMovie.Domain": "1.0.0"
+        },
+        "runtime": {
+          "RentalMovie.Services.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
       }
     }
   },
@@ -1466,6 +1478,11 @@
       "sha512": ""
     },
     "RentalMovie.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "RentalMovie.Services/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

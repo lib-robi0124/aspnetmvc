@@ -1,5 +1,10 @@
 using Microsoft.EntityFrameworkCore;
 using RentalMovie.Database;
+using RentalMovie.Database.Implementation;
+using RentalMovie.Database.Interfaces;
+using RentalMovie.Domain;
+using RentalMovie.Services.Services;
+using RentalMovie.Services.Services.Interfaces;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -8,9 +13,18 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<RentalMovieDbContext>(options =>
         options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnString")));
 
+builder.Services.AddScoped<IMovieRepository, MovieRepository>();
+builder.Services.AddScoped<IUserRepository, UserRepository>();
+builder.Services.AddScoped<IRentalRepository, RentalRepository>();
+builder.Services.AddScoped<IMovieService, MovieService>();
+builder.Services.AddScoped<IRentalService, RentalService>();
+builder.Services.AddScoped<IUserService, UserService>();
 
+
+builder.Services.AddSession();
 
 var app = builder.Build();
+
 
 // Configure the HTTP request pipeline.
 if (!app.Environment.IsDevelopment())
@@ -19,6 +33,8 @@ if (!app.Environment.IsDevelopment())
     // The default HSTS value is 30 days. You may want to change this for production scenarios, see https://aka.ms/aspnetcore-hsts.
     app.UseHsts();
 }
+
+app.UseSession();
 
 app.UseHttpsRedirection();
 app.UseStaticFiles();
@@ -32,3 +48,4 @@ app.MapControllerRoute(
     pattern: "{controller=Home}/{action=Index}/{id?}");
 
 app.Run();
+
