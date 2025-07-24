@@ -19,6 +19,7 @@
                 <tr>
                     <th>Rental Id</th>
                     <th>Movie Id</th>
+                    <th>Title</th>
                     <th>Rented On</th>
                     <th>Action</th>
                 </tr>
@@ -29,6 +30,7 @@
                     <tr>
                         <td>@rental.Id</td>
                         <td>@rental.MovieId</td>
+                        <td>@rental.Title</td>
                         <td>@rental.RentedOn</td>
                         <td>
                             <form asp-action="ReturnMovie" asp-controller="Movie" method="post">

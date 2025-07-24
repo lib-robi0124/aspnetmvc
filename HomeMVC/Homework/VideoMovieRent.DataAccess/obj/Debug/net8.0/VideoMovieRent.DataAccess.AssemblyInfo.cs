@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VideoMovieRent.DataAccess")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7745e94b11e10fa678a471a86ae6d629ff0c9f5e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dc59ce1a0c7f818e2868fc4e8d18b220d019b10")]
 [assembly: System.Reflection.AssemblyProductAttribute("VideoMovieRent.DataAccess")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VideoMovieRent.DataAccess")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -41,16 +41,16 @@ namespace VideoMovieRent.DataAccess
 
             modelBuilder.Entity<Rental>()
                 .HasData(
-                new Rental { Id = 1, MovieId = 1, UserId = 1, RentedOn = DateTime.Now.AddDays(-10), ReturnedOn = DateTime.Now.AddDays(-5) },
-                new Rental { Id = 2, MovieId = 2, UserId = 2, RentedOn = DateTime.Now.AddDays(-8), ReturnedOn = DateTime.Now.AddDays(-2) },
-                new Rental { Id = 3, MovieId = 3, UserId = 3, RentedOn = DateTime.Now.AddDays(-7), ReturnedOn = DateTime.Now.AddDays(-1) },
-                new Rental { Id = 4, MovieId = 4, UserId = 4, RentedOn = DateTime.Now.AddDays(-5), ReturnedOn = DateTime.Now },
-                new Rental { Id = 5, MovieId = 5, UserId = 5, RentedOn = DateTime.Now.AddDays(-12), ReturnedOn = DateTime.Now.AddDays(-7) },
-                new Rental { Id = 6, MovieId = 6, UserId = 6, RentedOn = DateTime.Now.AddDays(-3), ReturnedOn = DateTime.Now },
-                new Rental { Id = 7, MovieId = 7, UserId = 7, RentedOn = DateTime.Now.AddDays(-4), ReturnedOn = DateTime.Now.AddDays(-1) },
-                new Rental { Id = 8, MovieId = 8, UserId = 8, RentedOn = DateTime.Now.AddDays(-2), ReturnedOn = DateTime.Now },
-                new Rental { Id = 9, MovieId = 9, UserId = 9, RentedOn = DateTime.Now.AddDays(-6), ReturnedOn = DateTime.Now.AddDays(-2) },
-                new Rental { Id = 10, MovieId = 10, UserId = 10, RentedOn = DateTime.Now.AddDays(-1), ReturnedOn = DateTime.Now });
+                new Rental { Id = 1, MovieId = 1, UserId = 1, RentedOn = DateTime.Now.AddDays(-10), ReturnedOn = DateTime.Now.AddDays(-5), Title = "Neon Shadows"},
+                new Rental { Id = 2, MovieId = 2, UserId = 2, RentedOn = DateTime.Now.AddDays(-8), ReturnedOn = DateTime.Now.AddDays(-2), Title = "The Silent Forest"},
+                new Rental { Id = 3, MovieId = 3, UserId = 3, RentedOn = DateTime.Now.AddDays(-7), ReturnedOn = DateTime.Now.AddDays(-1), Title = "Quantum Paradox"},
+                new Rental { Id = 4, MovieId = 4, UserId = 4, RentedOn = DateTime.Now.AddDays(-5), ReturnedOn = DateTime.Now, Title = "Celestial Voyage"},
+                new Rental { Id = 5, MovieId = 5, UserId = 5, RentedOn = DateTime.Now.AddDays(-12), ReturnedOn = DateTime.Now.AddDays(-7), Title = "Whispers in the Dark" },
+                new Rental { Id = 6, MovieId = 6, UserId = 6, RentedOn = DateTime.Now.AddDays(-3), ReturnedOn = DateTime.Now, Title = "Midnight in Paris" },
+                new Rental { Id = 7, MovieId = 7, UserId = 7, RentedOn = DateTime.Now.AddDays(-4), ReturnedOn = DateTime.Now.AddDays(-1), Title = "The Forgotten Letter" },
+                new Rental { Id = 8, MovieId = 8, UserId = 8, RentedOn = DateTime.Now.AddDays(-2), ReturnedOn = DateTime.Now, Title = "Crimson Peak" },
+                new Rental { Id = 9, MovieId = 9, UserId = 9, RentedOn = DateTime.Now.AddDays(-6), ReturnedOn = DateTime.Now.AddDays(-2), Title = "Rogue Agent" },
+                new Rental { Id = 10, MovieId = 10, UserId = 10, RentedOn = DateTime.Now.AddDays(-1), ReturnedOn = DateTime.Now, Title = "The Alchemist's Daughter" });
 
             modelBuilder.Entity<Cast>()
                 .HasData(
