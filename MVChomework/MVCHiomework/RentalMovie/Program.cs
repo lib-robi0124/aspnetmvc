@@ -13,9 +13,9 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddDbContext<RentalMovieDbContext>(options =>
         options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnString")));
 
-builder.Services.AddScoped<IMovieRepository, MovieRepository>();
-builder.Services.AddScoped<IUserRepository, UserRepository>();
-builder.Services.AddScoped<IRentalRepository, RentalRepository>();
+//builder.Services.AddScoped<IMovieRepository, MovieRepository>();
+//builder.Services.AddScoped<IUserRepository, UserRepository>();
+//builder.Services.AddScoped<IRentalRepository, RentalRepository>();
 builder.Services.AddScoped<IMovieService, MovieService>();
 builder.Services.AddScoped<IRentalService, RentalService>();
 builder.Services.AddScoped<IUserService, UserService>();
