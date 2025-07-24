@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VideoMovieRentapp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6dc59ce1a0c7f818e2868fc4e8d18b220d019b10")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1f7ad60226f52d3dd965bf58405b0bc7303448d5")]
 [assembly: System.Reflection.AssemblyProductAttribute("VideoMovieRentapp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VideoMovieRentapp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
