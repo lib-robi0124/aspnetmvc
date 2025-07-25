@@ -1,6 +1,13 @@
+D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\bin\Debug\net8.0\VideoMovieRent.Filters.deps.json
+D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\bin\Debug\net8.0\VideoMovieRent.Filters.dll
+D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\bin\Debug\net8.0\VideoMovieRent.Filters.pdb
 D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\obj\Debug\net8.0\VideoMovieRent.Filters.csproj.AssemblyReference.cache
 D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\obj\Debug\net8.0\VideoMovieRent.Filters.GeneratedMSBuildEditorConfig.editorconfig
 D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\obj\Debug\net8.0\VideoMovieRent.Filters.AssemblyInfoInputs.cache
 D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\obj\Debug\net8.0\VideoMovieRent.Filters.AssemblyInfo.cs
 D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\obj\Debug\net8.0\VideoMovieRent.Filters.csproj.CoreCompileInputs.cache
 D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\obj\Debug\net8.0\VideoMovieRent.Filters.sourcelink.json
+D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\obj\Debug\net8.0\VideoMovieRent.Filters.dll
+D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\obj\Debug\net8.0\refint\VideoMovieRent.Filters.dll
+D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\obj\Debug\net8.0\VideoMovieRent.Filters.pdb
+D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\obj\Debug\net8.0\ref\VideoMovieRent.Filters.dll

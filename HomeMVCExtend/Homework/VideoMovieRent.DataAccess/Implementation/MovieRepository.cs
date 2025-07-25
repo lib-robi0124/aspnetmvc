@@ -1,4 +1,4 @@
-﻿
+﻿using System.Collections.Generic;
 using VideoMovieRent.DataAccess.Interfaces;
 using VideoMovieRent.Domain;
 
@@ -40,10 +40,6 @@ namespace VideoMovieRent.DataAccess.Implementation
             _db.Movies.Update(entity);
             _db.SaveChanges();
         }
-        public void Delete(Movie entity)
-        {
-            _db.Movies.Remove(entity);
-            _db.SaveChanges();
-        }
+      
     }
 }

@@ -40,6 +40,3 @@ D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Services\obj\Debug\n
 D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Services\obj\Debug\net8.0\VideoMovieRent.Services.AssemblyInfo.cs
 D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Services\obj\Debug\net8.0\VideoMovieRent.Services.csproj.CoreCompileInputs.cache
 D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Services\obj\Debug\net8.0\VideoMovieRent.Services.sourcelink.json
-D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Services\obj\Debug\net8.0\VideoMovieRent.Services.dll
-D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Services\obj\Debug\net8.0\refint\VideoMovieRent.Services.dll
-D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Services\obj\Debug\net8.0\VideoMovieRent.Services.pdb

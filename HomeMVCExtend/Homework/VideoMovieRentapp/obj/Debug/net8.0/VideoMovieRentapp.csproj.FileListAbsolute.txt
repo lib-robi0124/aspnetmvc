@@ -310,10 +310,8 @@ D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRentapp\obj\Debug\net8.0\
 D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRentapp\obj\Debug\net8.0\VideoMovieRentapp.AssemblyInfoInputs.cache
 D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRentapp\obj\Debug\net8.0\VideoMovieRentapp.AssemblyInfo.cs
 D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRentapp\obj\Debug\net8.0\VideoMovieRentapp.csproj.CoreCompileInputs.cache
+D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRentapp\obj\Debug\net8.0\VideoMovieRentapp.MvcApplicationPartsAssemblyInfo.cs
 D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRentapp\obj\Debug\net8.0\VideoMovieRentapp.MvcApplicationPartsAssemblyInfo.cache
 D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRentapp\obj\Debug\net8.0\VideoMovieRentapp.RazorAssemblyInfo.cache
 D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRentapp\obj\Debug\net8.0\VideoMovieRentapp.RazorAssemblyInfo.cs
 D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRentapp\obj\Debug\net8.0\VideoMovieRentapp.sourcelink.json
-D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRentapp\obj\Debug\net8.0\VideoMovieRentapp.dll
-D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRentapp\obj\Debug\net8.0\refint\VideoMovieRentapp.dll
-D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRentapp\obj\Debug\net8.0\VideoMovieRentapp.pdb

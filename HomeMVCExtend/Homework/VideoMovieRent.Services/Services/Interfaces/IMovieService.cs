@@ -8,9 +8,7 @@ namespace VideoMovieRent.Services.Interfaces
         IEnumerable<MovieDto> GetAllMovies();
         MovieDetailsDto GetMovieDetails(int id);
         Movie GetById(int id);
-        void CreateMovie(MovieDto dto);
-        void UpdateMovie(MovieDetailsDto dto);
-        void DeleteMovie(Movie movie);
+        
 
     }
 }

@@ -45,7 +45,7 @@ namespace VideoMovieRentapp.Controllers
         [AdminAuthorize]
         public IActionResult Create(MovieDto dto)
         {
-            _movieService.CreateMovie(dto);
+            _adminService.CreateMovie(dto);
             return RedirectToAction("Index");
         }
         [AdminAuthorize]
@@ -61,15 +61,15 @@ namespace VideoMovieRentapp.Controllers
 
         [HttpPost]
         [AdminAuthorize]
-        public IActionResult Edit(MovieDto dto)
+        public IActionResult Edit(MovieDetailsDto dto)
         {
-            _movieService.UpdateMovie(dto);
+            _adminService.UpdateMovie(dto);
             return RedirectToAction("Index");
         }
 
         public IActionResult Delete(int id)
         {
-            _movieService.DeleteMovie(id);
+            _adminService.DeleteMovie(id);
             return RedirectToAction("Index");
         }
     }

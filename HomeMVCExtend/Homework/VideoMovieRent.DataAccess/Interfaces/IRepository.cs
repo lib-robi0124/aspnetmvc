@@ -8,8 +8,8 @@ namespace VideoMovieRent.DataAccess.Interfaces
         T GetById(int id);
         void Create(T entity);
         void Update(T entity);
-        void Delete(Movie movie);
-        object GetById(Movie movie);
+        void Delete(int Id);
+        //object GetById(Movie movie);
     }
 
 }

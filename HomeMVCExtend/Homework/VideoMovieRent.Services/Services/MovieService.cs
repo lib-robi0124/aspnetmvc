@@ -67,47 +67,6 @@ namespace VideoMovieRent.Services.Services
                 throw new KeyNotFoundException($"Movie with ID {id} not found.");
             }
         }
-        public void CreateMovie(MovieDto dto)
-        {
-            var movie = new Movie
-            {
-                Title = dto.Title,
-                Genre = dto.Genre,
-                Language = dto.Language,
-                Quantity = 1, // Default quantity for new movies
-                ImagePath = dto.ImagePath
-            };
-            _movieRepository.Create(movie);
-        }
-
-        public void UpdateMovie(MovieDetailsDto dto)
-        {
-            var movie = _movieRepository.GetById(dto.Id);
-            if (movie == null)
-            {
-                throw new KeyNotFoundException($"Movie with ID {dto.Id} not found.");
-            }
-            movie.Title = dto.Title;
-            movie.Genre = dto.Genre;
-            movie.Length = dto.Length;
-            movie.AgeRestriction = dto.AgeRestriction;
-            movie.Quantity = dto.Quantity;
-            movie.ReleaseDate = dto.ReleaseDate;
-            movie.Language = dto.Language;
-            movie.ImagePath = dto.ImagePath;
-            // Update the movie in the repository
-            _movieRepository.Update(movie);
-        }
-
-        public void DeleteMovie(Movie movie)
-        {
-            var dmovie = _movieRepository.GetById(movie);
-            if (dmovie == null)
-            {
-                throw new KeyNotFoundException($"Movie with ID {movie} not found.");
-            }
-            // Delete the movie from the repository
-            _movieRepository.Delete(movie);
-        }
+      
     }
 }
