@@ -1,1 +1,1 @@
-D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRentapp\wwwroot\images\movies\paris.jpg
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRentapp\wwwroot\images\movies\paris.jpg

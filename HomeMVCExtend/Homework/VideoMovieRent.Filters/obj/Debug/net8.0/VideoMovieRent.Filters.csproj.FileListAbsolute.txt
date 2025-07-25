@@ -11,3 +11,16 @@ D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\obj\Debug\ne
 D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\obj\Debug\net8.0\refint\VideoMovieRent.Filters.dll
 D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\obj\Debug\net8.0\VideoMovieRent.Filters.pdb
 D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\obj\Debug\net8.0\ref\VideoMovieRent.Filters.dll
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\bin\Debug\net8.0\VideoMovieRent.Filters.deps.json
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\bin\Debug\net8.0\VideoMovieRent.Filters.dll
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\bin\Debug\net8.0\VideoMovieRent.Filters.pdb
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\obj\Debug\net8.0\VideoMovieRent.Filters.csproj.AssemblyReference.cache
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\obj\Debug\net8.0\VideoMovieRent.Filters.GeneratedMSBuildEditorConfig.editorconfig
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\obj\Debug\net8.0\VideoMovieRent.Filters.AssemblyInfoInputs.cache
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\obj\Debug\net8.0\VideoMovieRent.Filters.AssemblyInfo.cs
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\obj\Debug\net8.0\VideoMovieRent.Filters.csproj.CoreCompileInputs.cache
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\obj\Debug\net8.0\VideoMovieRent.Filters.sourcelink.json
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\obj\Debug\net8.0\VideoMovieRent.Filters.dll
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\obj\Debug\net8.0\refint\VideoMovieRent.Filters.dll
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\obj\Debug\net8.0\VideoMovieRent.Filters.pdb
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\obj\Debug\net8.0\ref\VideoMovieRent.Filters.dll

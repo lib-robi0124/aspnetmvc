@@ -34,3 +34,15 @@ D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Domain\obj\Debug\net
 D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Domain\obj\Debug\net8.0\refint\VideoMovieRent.Domain.dll
 D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Domain\obj\Debug\net8.0\VideoMovieRent.Domain.pdb
 D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Domain\obj\Debug\net8.0\ref\VideoMovieRent.Domain.dll
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Domain\bin\Debug\net8.0\VideoMovieRent.Domain.deps.json
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Domain\bin\Debug\net8.0\VideoMovieRent.Domain.dll
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Domain\bin\Debug\net8.0\VideoMovieRent.Domain.pdb
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Domain\obj\Debug\net8.0\VideoMovieRent.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Domain\obj\Debug\net8.0\VideoMovieRent.Domain.AssemblyInfoInputs.cache
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Domain\obj\Debug\net8.0\VideoMovieRent.Domain.AssemblyInfo.cs
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Domain\obj\Debug\net8.0\VideoMovieRent.Domain.csproj.CoreCompileInputs.cache
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Domain\obj\Debug\net8.0\VideoMovieRent.Domain.sourcelink.json
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Domain\obj\Debug\net8.0\VideoMovieRent.Domain.dll
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Domain\obj\Debug\net8.0\refint\VideoMovieRent.Domain.dll
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Domain\obj\Debug\net8.0\VideoMovieRent.Domain.pdb
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Domain\obj\Debug\net8.0\ref\VideoMovieRent.Domain.dll

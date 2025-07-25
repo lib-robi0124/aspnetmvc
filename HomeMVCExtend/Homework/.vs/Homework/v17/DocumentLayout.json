@@ -1,38 +1,18 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\qinshift\\aspnetmvc\\HomeMVCExtend\\Homework\\",
+  "WorkspaceRootPath": "C:\\qinshift\\aspnetmvc\\HomeMVCExtend\\Homework\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{1BFF4123-FE6A-4389-8AF4-4345E1298094}|VideoMovieRentapp\\VideoMovieRentapp.csproj|d:\\qinshift\\aspnetmvc\\homemvcextend\\homework\\videomovierentapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1BFF4123-FE6A-4389-8AF4-4345E1298094}|VideoMovieRentapp\\VideoMovieRentapp.csproj|solutionrelative:videomovierentapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C34700C-7109-4893-AD16-96AE7234060A}|VideoMovieRent.Services\\VideoMovieRent.Services.csproj|d:\\qinshift\\aspnetmvc\\homemvcextend\\homework\\videomovierent.services\\services\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C34700C-7109-4893-AD16-96AE7234060A}|VideoMovieRent.Services\\VideoMovieRent.Services.csproj|solutionrelative:videomovierent.services\\services\\interfaces\\iadminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C34700C-7109-4893-AD16-96AE7234060A}|VideoMovieRent.Services\\VideoMovieRent.Services.csproj|d:\\qinshift\\aspnetmvc\\homemvcextend\\homework\\videomovierent.services\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C34700C-7109-4893-AD16-96AE7234060A}|VideoMovieRent.Services\\VideoMovieRent.Services.csproj|solutionrelative:videomovierent.services\\services\\movieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C34700C-7109-4893-AD16-96AE7234060A}|VideoMovieRent.Services\\VideoMovieRent.Services.csproj|d:\\qinshift\\aspnetmvc\\homemvcextend\\homework\\videomovierent.services\\services\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3C34700C-7109-4893-AD16-96AE7234060A}|VideoMovieRent.Services\\VideoMovieRent.Services.csproj|solutionrelative:videomovierent.services\\services\\interfaces\\imovieservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{3C34700C-7109-4893-AD16-96AE7234060A}|VideoMovieRent.Services\\VideoMovieRent.Services.csproj|d:\\qinshift\\aspnetmvc\\homemvcextend\\homework\\videomovierent.services\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3C34700C-7109-4893-AD16-96AE7234060A}|VideoMovieRent.Services\\VideoMovieRent.Services.csproj|c:\\qinshift\\aspnetmvc\\homemvcextend\\homework\\videomovierent.services\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3C34700C-7109-4893-AD16-96AE7234060A}|VideoMovieRent.Services\\VideoMovieRent.Services.csproj|solutionrelative:videomovierent.services\\services\\adminservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13321BCC-7D06-4339-B882-A67A96EF93DD}|VideoMovieRent.DataAccess\\VideoMovieRent.DataAccess.csproj|d:\\qinshift\\aspnetmvc\\homemvcextend\\homework\\videomovierent.dataaccess\\implementation\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13321BCC-7D06-4339-B882-A67A96EF93DD}|VideoMovieRent.DataAccess\\VideoMovieRent.DataAccess.csproj|solutionrelative:videomovierent.dataaccess\\implementation\\adminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13321BCC-7D06-4339-B882-A67A96EF93DD}|VideoMovieRent.DataAccess\\VideoMovieRent.DataAccess.csproj|c:\\qinshift\\aspnetmvc\\homemvcextend\\homework\\videomovierent.dataaccess\\implementation\\rentalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13321BCC-7D06-4339-B882-A67A96EF93DD}|VideoMovieRent.DataAccess\\VideoMovieRent.DataAccess.csproj|solutionrelative:videomovierent.dataaccess\\implementation\\rentalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{13321BCC-7D06-4339-B882-A67A96EF93DD}|VideoMovieRent.DataAccess\\VideoMovieRent.DataAccess.csproj|d:\\qinshift\\aspnetmvc\\homemvcextend\\homework\\videomovierent.dataaccess\\interfaces\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13321BCC-7D06-4339-B882-A67A96EF93DD}|VideoMovieRent.DataAccess\\VideoMovieRent.DataAccess.csproj|solutionrelative:videomovierent.dataaccess\\interfaces\\iadminrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13321BCC-7D06-4339-B882-A67A96EF93DD}|VideoMovieRent.DataAccess\\VideoMovieRent.DataAccess.csproj|d:\\qinshift\\aspnetmvc\\homemvcextend\\homework\\videomovierent.dataaccess\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13321BCC-7D06-4339-B882-A67A96EF93DD}|VideoMovieRent.DataAccess\\VideoMovieRent.DataAccess.csproj|solutionrelative:videomovierent.dataaccess\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13321BCC-7D06-4339-B882-A67A96EF93DD}|VideoMovieRent.DataAccess\\VideoMovieRent.DataAccess.csproj|c:\\qinshift\\aspnetmvc\\homemvcextend\\homework\\videomovierent.dataaccess\\interfaces\\irentalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13321BCC-7D06-4339-B882-A67A96EF93DD}|VideoMovieRent.DataAccess\\VideoMovieRent.DataAccess.csproj|solutionrelative:videomovierent.dataaccess\\interfaces\\irentalrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,106 +30,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
               "Title": "AdminService.cs",
-              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\HomeMVCExtend\\Homework\\VideoMovieRent.Services\\Services\\AdminService.cs",
+              "DocumentMoniker": "C:\\qinshift\\aspnetmvc\\HomeMVCExtend\\Homework\\VideoMovieRent.Services\\Services\\AdminService.cs",
               "RelativeDocumentMoniker": "VideoMovieRent.Services\\Services\\AdminService.cs",
-              "ToolTip": "D:\\qinshift\\aspnetmvc\\HomeMVCExtend\\Homework\\VideoMovieRent.Services\\Services\\AdminService.cs",
+              "ToolTip": "C:\\qinshift\\aspnetmvc\\HomeMVCExtend\\Homework\\VideoMovieRent.Services\\Services\\AdminService.cs",
               "RelativeToolTip": "VideoMovieRent.Services\\Services\\AdminService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAhwCoAAABVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T14:52:14.765Z",
+              "WhenOpened": "2025-07-25T16:21:13.412Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IAdminService.cs",
-              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\HomeMVCExtend\\Homework\\VideoMovieRent.Services\\Services\\Interfaces\\IAdminService.cs",
-              "RelativeDocumentMoniker": "VideoMovieRent.Services\\Services\\Interfaces\\IAdminService.cs",
-              "ToolTip": "D:\\qinshift\\aspnetmvc\\HomeMVCExtend\\Homework\\VideoMovieRent.Services\\Services\\Interfaces\\IAdminService.cs",
-              "RelativeToolTip": "VideoMovieRent.Services\\Services\\Interfaces\\IAdminService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAgAAAANAAAAAAAAAA==",
+              "Title": "RentalRepository.cs",
+              "DocumentMoniker": "C:\\qinshift\\aspnetmvc\\HomeMVCExtend\\Homework\\VideoMovieRent.DataAccess\\Implementation\\RentalRepository.cs",
+              "RelativeDocumentMoniker": "VideoMovieRent.DataAccess\\Implementation\\RentalRepository.cs",
+              "ToolTip": "C:\\qinshift\\aspnetmvc\\HomeMVCExtend\\Homework\\VideoMovieRent.DataAccess\\Implementation\\RentalRepository.cs",
+              "RelativeToolTip": "VideoMovieRent.DataAccess\\Implementation\\RentalRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDIAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T14:50:57.993Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IMovieService.cs",
-              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\HomeMVCExtend\\Homework\\VideoMovieRent.Services\\Services\\Interfaces\\IMovieService.cs",
-              "RelativeDocumentMoniker": "VideoMovieRent.Services\\Services\\Interfaces\\IMovieService.cs",
-              "ToolTip": "D:\\qinshift\\aspnetmvc\\HomeMVCExtend\\Homework\\VideoMovieRent.Services\\Services\\Interfaces\\IMovieService.cs",
-              "RelativeToolTip": "VideoMovieRent.Services\\Services\\Interfaces\\IMovieService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T14:48:15.97Z",
+              "WhenOpened": "2025-07-25T16:18:50.91Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "MovieService.cs",
-              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\HomeMVCExtend\\Homework\\VideoMovieRent.Services\\Services\\MovieService.cs",
-              "RelativeDocumentMoniker": "VideoMovieRent.Services\\Services\\MovieService.cs",
-              "ToolTip": "D:\\qinshift\\aspnetmvc\\HomeMVCExtend\\Homework\\VideoMovieRent.Services\\Services\\MovieService.cs",
-              "RelativeToolTip": "VideoMovieRent.Services\\Services\\MovieService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEUAAAAGAAAAAAAAAA==",
+              "Title": "IRentalRepository.cs",
+              "DocumentMoniker": "C:\\qinshift\\aspnetmvc\\HomeMVCExtend\\Homework\\VideoMovieRent.DataAccess\\Interfaces\\IRentalRepository.cs",
+              "RelativeDocumentMoniker": "VideoMovieRent.DataAccess\\Interfaces\\IRentalRepository.cs",
+              "ToolTip": "C:\\qinshift\\aspnetmvc\\HomeMVCExtend\\Homework\\VideoMovieRent.DataAccess\\Interfaces\\IRentalRepository.cs",
+              "RelativeToolTip": "VideoMovieRent.DataAccess\\Interfaces\\IRentalRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T14:47:52.529Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AdminController.cs",
-              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\HomeMVCExtend\\Homework\\VideoMovieRentapp\\Controllers\\AdminController.cs",
-              "RelativeDocumentMoniker": "VideoMovieRentapp\\Controllers\\AdminController.cs",
-              "ToolTip": "D:\\qinshift\\aspnetmvc\\HomeMVCExtend\\Homework\\VideoMovieRentapp\\Controllers\\AdminController.cs",
-              "RelativeToolTip": "VideoMovieRentapp\\Controllers\\AdminController.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAiwDkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T14:46:21.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AdminRepository.cs",
-              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\HomeMVCExtend\\Homework\\VideoMovieRent.DataAccess\\Implementation\\AdminRepository.cs",
-              "RelativeDocumentMoniker": "VideoMovieRent.DataAccess\\Implementation\\AdminRepository.cs",
-              "ToolTip": "D:\\qinshift\\aspnetmvc\\HomeMVCExtend\\Homework\\VideoMovieRent.DataAccess\\Implementation\\AdminRepository.cs",
-              "RelativeToolTip": "VideoMovieRent.DataAccess\\Implementation\\AdminRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T14:39:40.005Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IAdminRepository.cs",
-              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\HomeMVCExtend\\Homework\\VideoMovieRent.DataAccess\\Interfaces\\IAdminRepository.cs",
-              "RelativeDocumentMoniker": "VideoMovieRent.DataAccess\\Interfaces\\IAdminRepository.cs",
-              "ToolTip": "D:\\qinshift\\aspnetmvc\\HomeMVCExtend\\Homework\\VideoMovieRent.DataAccess\\Interfaces\\IAdminRepository.cs",
-              "RelativeToolTip": "VideoMovieRent.DataAccess\\Interfaces\\IAdminRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAcAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T14:38:24.509Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "D:\\qinshift\\aspnetmvc\\HomeMVCExtend\\Homework\\VideoMovieRent.DataAccess\\Interfaces\\IRepository.cs",
-              "RelativeDocumentMoniker": "VideoMovieRent.DataAccess\\Interfaces\\IRepository.cs",
-              "ToolTip": "D:\\qinshift\\aspnetmvc\\HomeMVCExtend\\Homework\\VideoMovieRent.DataAccess\\Interfaces\\IRepository.cs",
-              "RelativeToolTip": "VideoMovieRent.DataAccess\\Interfaces\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-25T14:37:16.144Z",
+              "WhenOpened": "2025-07-25T16:18:39.71Z",
               "EditorCaption": ""
             }
           ]

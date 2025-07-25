@@ -40,7 +40,6 @@ namespace VideoMovieRent.Services.Services
             var admin = _adminRepository.GetByUsernameAndPassword(username, password);
             if (admin == null) return false;
 
-            _httpContextAccessor.HttpContext?.Session.SetString("UserRole", "Admin");
             _httpContextAccessor.HttpContext?.Session.SetString("AdminUsername", admin.Username);
 
             return true;

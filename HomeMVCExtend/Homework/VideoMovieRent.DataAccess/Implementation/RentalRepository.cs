@@ -48,6 +48,7 @@ namespace VideoMovieRent.DataAccess.Implementation
             var rental = new Rental
             {
                 MovieId = movieId,
+                Title = movie.Title,
                 UserId = userId,
                 RentedOn = DateTime.UtcNow,
                 ReturnedOn = DateTime.MinValue // Not returned yet
