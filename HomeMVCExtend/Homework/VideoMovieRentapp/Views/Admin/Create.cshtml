@@ -1,0 +1,35 @@
+﻿@using VideoMovieRent.Domain.Enums
+@model MovieDto
+
+@{
+    ViewData["Title"] = "Create Movie";
+}
+
+<h2>Create New Movie</h2>
+
+<form asp-action="Create" method="post">
+    <div class="mb-3">
+        <label asp-for="Title" class="form-label"></label>
+        <input asp-for="Title" class="form-control" />
+        <span asp-validation-for="Title" class="text-danger"></span>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Genre" class="form-label"></label>
+        <select asp-for="Genre" class="form-select" asp-items="Html.GetEnumSelectList<Genre>()"></select>
+    </div>
+
+    <div class="mb-3">
+        <label asp-for="Language" class="form-label"></label>
+        <select asp-for="Language" class="form-select" asp-items="Html.GetEnumSelectList<Language>()"></select>
+    </div>
+
+    <div class="form-check mb-3">
+        <input asp-for="IsAvailable" class="form-check-input" />
+        <label asp-for="IsAvailable" class="form-check-label"></label>
+    </div>
+
+    <button type="submit" class="btn btn-success">Save</button>
+    <a asp-action="Index" class="btn btn-secondary">Cancel</a>
+</form>
+

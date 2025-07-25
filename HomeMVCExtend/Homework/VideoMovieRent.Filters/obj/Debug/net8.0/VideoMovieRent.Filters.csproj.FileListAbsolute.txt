@@ -1,0 +1,6 @@
+D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\obj\Debug\net8.0\VideoMovieRent.Filters.csproj.AssemblyReference.cache
+D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\obj\Debug\net8.0\VideoMovieRent.Filters.GeneratedMSBuildEditorConfig.editorconfig
+D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\obj\Debug\net8.0\VideoMovieRent.Filters.AssemblyInfoInputs.cache
+D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\obj\Debug\net8.0\VideoMovieRent.Filters.AssemblyInfo.cs
+D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\obj\Debug\net8.0\VideoMovieRent.Filters.csproj.CoreCompileInputs.cache
+D:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Filters\obj\Debug\net8.0\VideoMovieRent.Filters.sourcelink.json
