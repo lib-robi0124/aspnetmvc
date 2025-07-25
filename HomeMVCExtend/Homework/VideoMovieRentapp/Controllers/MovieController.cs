@@ -1,6 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using VideoMovieRent.Domain;
+using VideoMovieRent.Domain.Enums;
 using VideoMovieRent.Services.Dtos;
 using VideoMovieRent.Services.Interfaces;
+using VideoMovieRent.ViewModels;
 
 namespace VideoMovieRentapp.Controllers
 {
@@ -52,7 +55,43 @@ namespace VideoMovieRentapp.Controllers
         {
             return RedirectToAction("Index", new { userId = 0 }); // Return to base state
         }
-        // Show movie details page for user or manager
+        [HttpGet]
+        public IActionResult Register() => View();
+
+        [HttpPost]
+        public IActionResult Register(RegisterVM vm)
+        {
+            if (!ModelState.IsValid) // Validate form data
+            {
+                return View(vm); // Show validation errors
+            }
+            // Create new user and save to database
+            if (_userService.GetUserByCardNumber(vm.CardNumber) != null)
+            {
+                ModelState.AddModelError("CardNumber", "Card number already exists.");
+                return View(vm); // Show error if card number already exists
+            }
+            
+            var user = new User
+            {
+                FullName = vm.FullName,
+                Age = vm.Age,
+                CardNumber = vm.CardNumber,
+                CreatedOn = DateTime.Now,
+                IsSubscriptionExpired = false,
+                
+            };
+            _userService.CreateUser(user);
+            return RedirectToAction("Login");
+        }
+        [HttpGet]
+        public IActionResult Search(string? title, Genre? genre, Language? language)
+        {
+            var results = _movieService.SearchMovies(title, genre, language);
+            return View("Index", results);
+        }
+
+        // Show movie details page for user
         public IActionResult Details(int id, int userId)
         {
             MovieDetailsDto movieDets = _movieService.GetMovieDetails(id);

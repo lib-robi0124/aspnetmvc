@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoMovieRent.Services", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoMovieRent.Filters", "VideoMovieRent.Filters\VideoMovieRent.Filters.csproj", "{1BAAE020-B8F0-4BA7-A825-70FC3CE6820E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoMoviesRent.ViewModels", "VideoMoviesRent.ViewModels\VideoMoviesRent.ViewModels.csproj", "{4B324A37-7200-4CDF-A7D7-3CFC4192880D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{1BAAE020-B8F0-4BA7-A825-70FC3CE6820E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1BAAE020-B8F0-4BA7-A825-70FC3CE6820E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1BAAE020-B8F0-4BA7-A825-70FC3CE6820E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B324A37-7200-4CDF-A7D7-3CFC4192880D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B324A37-7200-4CDF-A7D7-3CFC4192880D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B324A37-7200-4CDF-A7D7-3CFC4192880D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B324A37-7200-4CDF-A7D7-3CFC4192880D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

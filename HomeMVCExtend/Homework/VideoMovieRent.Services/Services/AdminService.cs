@@ -9,12 +9,10 @@ namespace VideoMovieRent.Services.Services
     public class AdminService : IAdminService
     {
         private readonly IAdminRepository _adminRepository;
-        private readonly IHttpContextAccessor _httpContextAccessor;
 
-        public AdminService(IAdminRepository adminRepository, IHttpContextAccessor httpContextAccessor)
+        public AdminService(IAdminRepository adminRepository)
         {
             _adminRepository = adminRepository;
-            _httpContextAccessor = httpContextAccessor;
         }
 
         public void CreateMovie(MovieDto dto)
@@ -35,16 +33,10 @@ namespace VideoMovieRent.Services.Services
             _adminRepository.Delete(id);
         }
 
-        public bool Login(string username, string password)
+        public Admin? Login(string username, string password)
         {
-            var admin = _adminRepository.GetByUsernameAndPassword(username, password);
-            if (admin == null) return false;
-
-            _httpContextAccessor.HttpContext?.Session.SetString("AdminUsername", admin.Username);
-
-            return true;
+            return _adminRepository.Login(username, password);
         }
-
         public void UpdateMovie(MovieDetailsDto entity)
         {
             var movie = new Movie

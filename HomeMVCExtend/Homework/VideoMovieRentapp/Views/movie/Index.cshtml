@@ -17,6 +17,27 @@
         </form>
         <a asp-controller="Movie" asp-action="Return" asp-route-userId="@userId" class="btn btn-info mb-3 ms-2">My Rentals</a>
     }
+   
+    <form method="get" asp-action="Search">
+        <input type="text" name="title" placeholder="Title" />
+        <select name="genre">
+            <option value="">All Genres</option>
+            <option value="Action">Action</option>
+            <option value="Comedy">Comedy</option>
+            <option value="Drama">Drama</option>
+            <option value="Horror">Horror</option>
+            <option value="Sci-Fi">Sci-Fi</option>
+        </select>
+        <select name="language">
+            <option value="">All Languages</option>
+            <option value="English">English</option>
+            <option value="Spanish">Spanish</option>
+            <option value="French">French</option>
+            <option value="German">German</option>
+            <option value="Japanese">Japanese</option>
+        </select>
+        <button type="submit">Search</button>
+    </form>
     <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 row-cols-lg-4 g-4">
         @foreach (var movie in Model)
         {

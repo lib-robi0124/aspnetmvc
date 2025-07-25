@@ -11,6 +11,12 @@ namespace VideoMovieRent.Services.Services
         {
             _userRepository = userRepository;
         }
+
+        public void CreateUser(User user)
+        {
+            _userRepository.CreateUser(user);
+        }
+
         public User GetUserByCardNumber(string cardNumber)
         {
             return _userRepository.GetUserByCardNumber(cardNumber);

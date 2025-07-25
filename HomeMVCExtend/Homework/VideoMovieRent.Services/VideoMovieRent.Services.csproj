@@ -10,6 +10,7 @@
     <ProjectReference Include="..\VideoMovieRent.DataAccess\VideoMovieRent.DataAccess.csproj" />
     <ProjectReference Include="..\VideoMovieRent.Domain\VideoMovieRent.Domain.csproj" />
     <ProjectReference Include="..\VideoMovieRent.Filters\VideoMovieRent.Filters.csproj" />
+    <ProjectReference Include="..\VideoMoviesRent.ViewModels\VideoMoviesRent.ViewModels.csproj" />
   </ItemGroup>
 
 </Project>

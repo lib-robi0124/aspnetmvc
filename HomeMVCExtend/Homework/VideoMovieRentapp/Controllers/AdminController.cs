@@ -24,13 +24,16 @@ namespace VideoMovieRentapp.Controllers
         [HttpPost]
         public IActionResult Login(string username, string password)
         {
-            if (_adminService.Login(username, password))
+            var admin = _adminService.Login(username, password);
+            if (admin == null)
             {
-                return RedirectToAction("Index");
+                ViewBag.Error = "Invalid admin credentials.";
+                return View();
             }
 
-            ViewBag.Error = "Invalid admin credentials.";
-            return View();
+            HttpContext.Session.SetString("IsAdminLoggedIn", "true");
+            HttpContext.Session.SetString("AdminUsername", admin.Username);
+            return RedirectToAction("Login");
         }
         [AdminAuthorize]
         public IActionResult Index()
@@ -46,7 +49,7 @@ namespace VideoMovieRentapp.Controllers
         public IActionResult Create(MovieDto dto)
         {
             _adminService.CreateMovie(dto);
-            return RedirectToAction("Index");
+            return RedirectToAction("Create");
         }
         [AdminAuthorize]
         public IActionResult Edit(int id)
@@ -64,7 +67,7 @@ namespace VideoMovieRentapp.Controllers
         public IActionResult Edit(MovieDetailsDto dto)
         {
             _adminService.UpdateMovie(dto);
-            return RedirectToAction("Index");
+            return RedirectToAction("Edit");
         }
 
         public IActionResult Delete(int id)

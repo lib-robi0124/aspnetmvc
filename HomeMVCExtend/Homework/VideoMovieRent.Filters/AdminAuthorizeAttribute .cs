@@ -10,11 +10,11 @@ namespace VideoMovieRent.Filters
     {
         public override void OnActionExecuting(ActionExecutingContext context)
         {
-            var role = context.HttpContext.Session.GetString("UserRole");
-            // If user is not admin, redirect to main movie page
-            if (string.IsNullOrEmpty(role) || role != "Admin")
+            var isAdmin = context.HttpContext.Session.GetString("IsAdminLoggedIn");
+
+            if (string.IsNullOrEmpty(isAdmin) || isAdmin != "true")
             {
-                context.Result = new RedirectToActionResult("Index", "Movie", null);
+                context.Result = new RedirectToActionResult("Login", "Admin", null);
             }
         }
     }

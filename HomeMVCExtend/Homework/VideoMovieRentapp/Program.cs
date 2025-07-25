@@ -13,6 +13,8 @@ var builder = WebApplication.CreateBuilder(args);
 // Add services to the container.
 builder.Services.AddControllersWithViews();
 
+
+
 builder.Services.Configure<FormOptions>(options => {
     options.MultipartBodyLengthLimit = 104857600; // 100 MB
 });
@@ -30,7 +32,12 @@ builder.Services.AddScoped<IAdminService, AdminService>();
 builder.Services.AddScoped<IAdminRepository, AdminRepository>();
 builder.Services.AddHttpContextAccessor(); // needed for session inside service
 
-
+builder.Services.AddSession(options =>
+{
+    options.IdleTimeout = TimeSpan.FromMinutes(30); // optional: session lifetime
+    options.Cookie.HttpOnly = true;
+    options.Cookie.IsEssential = true;
+});
 builder.Services.AddSession();
 
 var app = builder.Build();
@@ -49,6 +56,8 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+
+app.UseSession(); 
 
 app.MapControllerRoute(
     name: "default",

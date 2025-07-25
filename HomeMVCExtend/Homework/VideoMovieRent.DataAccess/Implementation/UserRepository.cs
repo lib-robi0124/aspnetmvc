@@ -21,5 +21,10 @@ namespace VideoMovieRent.DataAccess.Implementation
         {
             var user = _db.Users.FirstOrDefault(x => x.CardNumber == cardNumber);
         }
+
+        public void CreateUser(User user)
+        {
+            _db.Users.Add(user);
+        }
     }
 }

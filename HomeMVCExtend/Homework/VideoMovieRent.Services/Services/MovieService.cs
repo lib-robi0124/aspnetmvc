@@ -1,5 +1,6 @@
 ﻿using VideoMovieRent.DataAccess.Interfaces;
 using VideoMovieRent.Domain;
+using VideoMovieRent.Domain.Enums;
 using VideoMovieRent.Services.Dtos;
 using VideoMovieRent.Services.Interfaces;
 
@@ -67,6 +68,30 @@ namespace VideoMovieRent.Services.Services
                 throw new KeyNotFoundException($"Movie with ID {id} not found.");
             }
         }
-      
+
+        
+        public IEnumerable<MovieDto> SearchMovies(string? title, Genre? genre, Language? language)
+        {
+            var query = _movieRepository.GetAll().AsQueryable();
+
+            if (!string.IsNullOrEmpty(title))
+                query = query.Where(m => m.Title.Contains(title));
+            if (genre.HasValue)
+                query = query.Where(m => m.Genre == genre.Value);
+            if (language.HasValue)
+                query = query.Where(m => m.Language == language.Value);
+
+            return query.Select(m => new MovieDto 
+            { 
+                Id = m.Id,
+                Title = m.Title,
+                Genre = m.Genre,
+                Language = m.Language,
+                IsAvailable = m.Quantity > 0,
+                ImagePath = m.ImagePath,
+            }).ToList();
+        }
+        
     }
 }
+

@@ -11,7 +11,7 @@ namespace VideoMovieRent.DataAccess.Implementation
         {
             _db = db;
         }
-        public Admin? GetByUsernameAndPassword(string username, string password)
+        public Admin? Login(string username, string password)
         {
             return _db.Admins.FirstOrDefault(a =>
                 a.Username == username && a.Password == password);

@@ -4,7 +4,7 @@ namespace VideoMovieRent.DataAccess.Interfaces
 {
     public interface IAdminRepository
     {
-        Admin? GetByUsernameAndPassword(string username, string password);
+        Admin? Login(string username, string password);
         void Create(Movie entity);
         void Update(Movie entity);
         void Delete(int id);

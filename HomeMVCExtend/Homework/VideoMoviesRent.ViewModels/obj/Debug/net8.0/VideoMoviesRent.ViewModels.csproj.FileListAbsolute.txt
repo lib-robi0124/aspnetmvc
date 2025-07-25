@@ -1,0 +1,12 @@
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMoviesRent.ViewModels\bin\Debug\net8.0\VideoMoviesRent.ViewModels.deps.json
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMoviesRent.ViewModels\bin\Debug\net8.0\VideoMoviesRent.ViewModels.dll
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMoviesRent.ViewModels\bin\Debug\net8.0\VideoMoviesRent.ViewModels.pdb
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMoviesRent.ViewModels\obj\Debug\net8.0\VideoMoviesRent.ViewModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMoviesRent.ViewModels\obj\Debug\net8.0\VideoMoviesRent.ViewModels.AssemblyInfoInputs.cache
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMoviesRent.ViewModels\obj\Debug\net8.0\VideoMoviesRent.ViewModels.AssemblyInfo.cs
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMoviesRent.ViewModels\obj\Debug\net8.0\VideoMoviesRent.ViewModels.csproj.CoreCompileInputs.cache
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMoviesRent.ViewModels\obj\Debug\net8.0\VideoMoviesRent.ViewModels.sourcelink.json
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMoviesRent.ViewModels\obj\Debug\net8.0\VideoMoviesRent.ViewModels.dll
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMoviesRent.ViewModels\obj\Debug\net8.0\refint\VideoMoviesRent.ViewModels.dll
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMoviesRent.ViewModels\obj\Debug\net8.0\VideoMoviesRent.ViewModels.pdb
+C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMoviesRent.ViewModels\obj\Debug\net8.0\ref\VideoMoviesRent.ViewModels.dll
