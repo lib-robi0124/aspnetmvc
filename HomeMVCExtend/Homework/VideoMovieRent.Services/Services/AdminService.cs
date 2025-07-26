@@ -15,7 +15,7 @@ namespace VideoMovieRent.Services.Services
             _adminRepository = adminRepository;
         }
 
-        public void CreateMovie(MovieDto dto)
+        public void CreateMovie(MovieDetailsDto dto)
         {
             var movie = new Movie
             {

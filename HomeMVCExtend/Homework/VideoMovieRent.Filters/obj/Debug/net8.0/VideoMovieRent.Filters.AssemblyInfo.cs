@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("VideoMovieRent.Filters")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9aa194debd312e2b7575d89e4709a6674cb8bf11")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5d2b87b03674d76410abbfae85ecb86efae48e52")]
 [assembly: System.Reflection.AssemblyProductAttribute("VideoMovieRent.Filters")]
 [assembly: System.Reflection.AssemblyTitleAttribute("VideoMovieRent.Filters")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

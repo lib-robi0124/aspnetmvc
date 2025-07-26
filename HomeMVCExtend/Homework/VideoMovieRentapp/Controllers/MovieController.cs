@@ -3,7 +3,6 @@ using VideoMovieRent.Domain;
 using VideoMovieRent.Domain.Enums;
 using VideoMovieRent.Services.Dtos;
 using VideoMovieRent.Services.Interfaces;
-using VideoMovieRent.ViewModels;
 
 namespace VideoMovieRentapp.Controllers
 {
@@ -59,24 +58,24 @@ namespace VideoMovieRentapp.Controllers
         public IActionResult Register() => View();
 
         [HttpPost]
-        public IActionResult Register(RegisterVM vm)
+        public IActionResult Register(RegisterDto dto)
         {
             if (!ModelState.IsValid) // Validate form data
             {
-                return View(vm); // Show validation errors
+                return View(dto); // Show validation errors
             }
             // Create new user and save to database
-            if (_userService.GetUserByCardNumber(vm.CardNumber) != null)
+            if (_userService.GetUserByCardNumber(dto.CardNumber) != null)
             {
                 ModelState.AddModelError("CardNumber", "Card number already exists.");
-                return View(vm); // Show error if card number already exists
+                return View(dto); // Show error if card number already exists
             }
             
             var user = new User
             {
-                FullName = vm.FullName,
-                Age = vm.Age,
-                CardNumber = vm.CardNumber,
+                FullName = dto.FullName,
+                Age = dto.Age,
+                CardNumber = dto.CardNumber,
                 CreatedOn = DateTime.Now,
                 IsSubscriptionExpired = false,
                 

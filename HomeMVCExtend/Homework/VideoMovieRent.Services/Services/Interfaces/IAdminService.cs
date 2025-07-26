@@ -6,7 +6,7 @@ namespace VideoMovieRent.Services.Services.Interfaces
     public interface IAdminService
     {
         Admin Login(string username, string password);
-        void CreateMovie(MovieDto dto);
+        void CreateMovie(MovieDetailsDto dto);
         void UpdateMovie(MovieDetailsDto dto);
         void DeleteMovie(int id);
     }

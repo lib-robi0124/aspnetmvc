@@ -2022,16 +2022,6 @@
         "runtime": {
           "bin/placeholder/VideoMovieRent.Filters.dll": {}
         }
-      },
-      "VideoMoviesRent.ViewModels/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/VideoMoviesRent.ViewModels.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/VideoMoviesRent.ViewModels.dll": {}
-        }
       }
     }
   },
@@ -6105,19 +6095,13 @@
       "type": "project",
       "path": "../VideoMovieRent.Filters/VideoMovieRent.Filters.csproj",
       "msbuildProject": "../VideoMovieRent.Filters/VideoMovieRent.Filters.csproj"
-    },
-    "VideoMoviesRent.ViewModels/1.0.0": {
-      "type": "project",
-      "path": "../VideoMoviesRent.ViewModels/VideoMoviesRent.ViewModels.csproj",
-      "msbuildProject": "../VideoMoviesRent.ViewModels/VideoMoviesRent.ViewModels.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "VideoMovieRent.DataAccess >= 1.0.0",
       "VideoMovieRent.Domain >= 1.0.0",
-      "VideoMovieRent.Filters >= 1.0.0",
-      "VideoMoviesRent.ViewModels >= 1.0.0"
+      "VideoMovieRent.Filters >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -6160,9 +6144,6 @@
             },
             "C:\\qinshift\\aspnetmvc\\HomeMVCExtend\\Homework\\VideoMovieRent.Filters\\VideoMovieRent.Filters.csproj": {
               "projectPath": "C:\\qinshift\\aspnetmvc\\HomeMVCExtend\\Homework\\VideoMovieRent.Filters\\VideoMovieRent.Filters.csproj"
-            },
-            "C:\\qinshift\\aspnetmvc\\HomeMVCExtend\\Homework\\VideoMoviesRent.ViewModels\\VideoMoviesRent.ViewModels.csproj": {
-              "projectPath": "C:\\qinshift\\aspnetmvc\\HomeMVCExtend\\Homework\\VideoMoviesRent.ViewModels\\VideoMoviesRent.ViewModels.csproj"
             }
           }
         }

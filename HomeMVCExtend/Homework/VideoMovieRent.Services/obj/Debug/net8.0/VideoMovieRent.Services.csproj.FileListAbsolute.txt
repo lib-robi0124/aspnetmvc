@@ -60,5 +60,3 @@ C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Services\obj\Debug\n
 C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Services\obj\Debug\net8.0\refint\VideoMovieRent.Services.dll
 C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Services\obj\Debug\net8.0\VideoMovieRent.Services.pdb
 C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Services\obj\Debug\net8.0\ref\VideoMovieRent.Services.dll
-C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Services\bin\Debug\net8.0\VideoMoviesRent.ViewModels.dll
-C:\qinshift\aspnetmvc\HomeMVCExtend\Homework\VideoMovieRent.Services\bin\Debug\net8.0\VideoMoviesRent.ViewModels.pdb

@@ -1927,24 +1927,13 @@
         "dependencies": {
           "VideoMovieRent.DataAccess": "1.0.0",
           "VideoMovieRent.Domain": "1.0.0",
-          "VideoMovieRent.Filters": "1.0.0",
-          "VideoMoviesRent.ViewModels": "1.0.0"
+          "VideoMovieRent.Filters": "1.0.0"
         },
         "compile": {
           "bin/placeholder/VideoMovieRent.Services.dll": {}
         },
         "runtime": {
           "bin/placeholder/VideoMovieRent.Services.dll": {}
-        }
-      },
-      "VideoMoviesRent.ViewModels/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "compile": {
-          "bin/placeholder/VideoMoviesRent.ViewModels.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/VideoMoviesRent.ViewModels.dll": {}
         }
       }
     }
@@ -4812,11 +4801,6 @@
       "type": "project",
       "path": "../VideoMovieRent.Services/VideoMovieRent.Services.csproj",
       "msbuildProject": "../VideoMovieRent.Services/VideoMovieRent.Services.csproj"
-    },
-    "VideoMoviesRent.ViewModels/1.0.0": {
-      "type": "project",
-      "path": "../VideoMoviesRent.ViewModels/VideoMoviesRent.ViewModels.csproj",
-      "msbuildProject": "../VideoMoviesRent.ViewModels/VideoMoviesRent.ViewModels.csproj"
     }
   },
   "projectFileDependencyGroups": {

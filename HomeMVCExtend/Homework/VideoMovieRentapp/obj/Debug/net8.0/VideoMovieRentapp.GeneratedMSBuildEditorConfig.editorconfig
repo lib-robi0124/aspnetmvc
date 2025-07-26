@@ -24,8 +24,16 @@ build_property.EnableCodeStyleSeverity =
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cQ3JlYXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
+[C:/qinshift/aspnetmvc/HomeMVCExtend/Homework/VideoMovieRentapp/Views/Admin/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/qinshift/aspnetmvc/HomeMVCExtend/Homework/VideoMovieRentapp/Views/Admin/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/qinshift/aspnetmvc/HomeMVCExtend/Homework/VideoMovieRentapp/Views/Admin/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWRtaW5cSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/qinshift/aspnetmvc/HomeMVCExtend/Homework/VideoMovieRentapp/Views/Admin/Login.cshtml]
@@ -50,6 +58,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/qinshift/aspnetmvc/HomeMVCExtend/Homework/VideoMovieRentapp/Views/movie/Login.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbW92aWVcTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/qinshift/aspnetmvc/HomeMVCExtend/Homework/VideoMovieRentapp/Views/movie/Register.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcbW92aWVcUmVnaXN0ZXIuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/qinshift/aspnetmvc/HomeMVCExtend/Homework/VideoMovieRentapp/Views/movie/Return.cshtml]

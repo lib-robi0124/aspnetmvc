@@ -10,8 +10,7 @@
         "dependencies": {
           "VideoMovieRent.DataAccess": "1.0.0",
           "VideoMovieRent.Domain": "1.0.0",
-          "VideoMovieRent.Filters": "1.0.0",
-          "VideoMoviesRent.ViewModels": "1.0.0"
+          "VideoMovieRent.Filters": "1.0.0"
         },
         "runtime": {
           "VideoMovieRent.Services.dll": {}
@@ -1223,14 +1222,6 @@
             "fileVersion": "1.0.0.0"
           }
         }
-      },
-      "VideoMoviesRent.ViewModels/1.0.0": {
-        "runtime": {
-          "VideoMoviesRent.ViewModels.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
       }
     }
   },
@@ -2035,11 +2026,6 @@
       "sha512": ""
     },
     "VideoMovieRent.Filters/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "VideoMoviesRent.ViewModels/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
