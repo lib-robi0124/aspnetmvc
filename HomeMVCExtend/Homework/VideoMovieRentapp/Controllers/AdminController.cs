@@ -56,6 +56,13 @@ namespace VideoMovieRentapp.Controllers
             HttpContext.Session.Clear();
             return RedirectToAction("Index");
         }
+        [HttpGet]
+        [AdminAuthorize]
+        public IActionResult Create()
+        {
+            return View(new MovieDetailsDto());
+        }
+
         [HttpPost]
         [AdminAuthorize]
         public IActionResult Create(MovieDetailsDto dto, IFormFile ImageFile)

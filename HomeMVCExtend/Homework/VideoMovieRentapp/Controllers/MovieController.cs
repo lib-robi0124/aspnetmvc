@@ -54,35 +54,66 @@ namespace VideoMovieRentapp.Controllers
         {
             return RedirectToAction("Index", new { userId = 0 }); // Return to base state
         }
+        // Step 1: Show card number input form
         [HttpGet]
-        public IActionResult Register() => View();
+        public IActionResult CheckCard()
+        {
+            return View(); // CheckCard.cshtml
+        }
 
+        // Step 1: Validate card number
+        [HttpPost]
+        public IActionResult CheckCard(string cardNumber)
+        {
+            var existingUser = _userService.GetUserByCardNumber(cardNumber);
+            if (existingUser != null)
+            {
+                ViewBag.Error = "Card number already exists. Try logging in.";
+                return View(); // back to CheckCard.cshtml
+            }
+
+            // Card is new – pass it to the register form
+            return RedirectToAction("Register", new { cardNumber = cardNumber });
+        }
+
+        // Step 2: Show register form (for new card)
+        [HttpGet]
+        public IActionResult Register(string cardNumber)
+        {
+            var dto = new RegisterDto { CardNumber = cardNumber };
+            return View(dto); // Register.cshtml
+        }
+
+        // Step 2: Save user
         [HttpPost]
         public IActionResult Register(RegisterDto dto)
         {
-            if (!ModelState.IsValid) // Validate form data
+            if (!ModelState.IsValid)
+                return View(dto);
+
+            var existingUser = _userService.GetUserByCardNumber(dto.CardNumber);
+            if (existingUser != null)
             {
-                return View(dto); // Show validation errors
+                ViewBag.Error = "Card number already exists.";
+                return View(dto);
             }
-            // Create new user and save to database
-            if (_userService.GetUserByCardNumber(dto.CardNumber) != null)
-            {
-                ModelState.AddModelError("CardNumber", "Card number already exists.");
-                return View(dto); // Show error if card number already exists
-            }
-            
-            var user = new User
+
+            var newUser = new User
             {
                 FullName = dto.FullName,
                 Age = dto.Age,
                 CardNumber = dto.CardNumber,
                 CreatedOn = DateTime.Now,
                 IsSubscriptionExpired = false,
-                
+                SubscriptionType = SubscriptionType.Yearly // Default to yearly subscription
             };
-            _userService.CreateUser(user);
+
+            _userService.CreateUser(newUser);
+
             return RedirectToAction("Login");
         }
+
+
         [HttpGet]
         public IActionResult Search(string? title, Genre? genre, Language? language)
         {
